@@ -1,0 +1,256 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+body{
+    background:#f5f7fb;
+}
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:18px 60px;
+    background:white;
+    box-shadow:0 2px 10px rgba(0,0,0,.08);
+}
+.logo{
+    display:flex;
+    align-items:center;
+    gap:10px;
+}
+.logo img{
+    width:40px;
+    height:40px;
+}
+.logo h1{
+    font-size:24px;
+    color:#005780;
+}
+.menu{
+    display:flex;
+    gap:40px;
+}
+.menu a{
+    text-decoration:none;
+    color:#333;
+    font-size:18px;
+    font-weight:500;
+    padding-bottom:8px;
+    transition:0.3s;
+}
+.menu a:hover{
+    color:#2563eb;
+}
+
+.menu a.active{
+    color:#2563eb;
+    border-bottom:3px solid #2563eb;
+}
+.buttons{
+    display:flex;
+    gap:15px;
+}
+.login{
+    padding:10px 22px;
+    background:white;
+    color:#2563eb;
+    border:2px solid #2563eb;
+    border-radius:8px;
+    cursor:pointer;
+    font-weight:bold;
+}
+
+.login:hover{
+    background:white;
+    color:#2563eb;
+    border:2px solid #2563eb;
+}
+.signup{
+    padding:10px 22px;
+    border:none;
+    background:#2563eb;
+    color:white;
+    border-radius:8px;
+    cursor:pointer;
+}
+.signup:hover{
+    background:#1d4ed8;
+}
+.signup-btn{
+    width:100%;
+    padding:14px;
+    background:#2563eb;
+    color:white;
+    border:none;
+    border-radius:8px;
+    font-size:16px;
+    font-weight:bold;
+    cursor:pointer;
+    transition:0.3s;
+}
+.signup-btn:hover{
+    background:#1d4ed8;
+}
+.logout{
+    padding:10px 22px;
+    border:none;
+    background:#dc2626;
+    color:white;
+    border-radius:8px;
+    cursor:pointer;
+}
+.logout:hover{
+    background:#b91c1c;
+}
+.hero{
+    background:linear-gradient(135deg,#2563eb,#60a5fa);
+    color:white;
+    text-align:center;
+    padding:100px 20px;
+    border-radius:0 0 30px 30px;
+}
+
+.hero h1{
+    font-size:50px;
+    color:white;
+    margin-bottom:20px;
+}
+
+.hero p{
+    font-size:22px;
+    margin-bottom:30px;
+}
+
+.hero button{
+    background:white;
+    color:#2563eb;
+    border:none;
+    padding:15px 35px;
+    border-radius:30px;
+    font-size:18px;
+    cursor:pointer;
+    transition:.3s;
+}
+
+.hero button:hover{
+    transform:scale(1.05);
+}
+.annonces{
+    padding:40px;
+}
+.annonces h2{
+    margin-bottom:25px;
+    color:#1e3a8a;
+}
+#liste{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:20px;
+}
+.card{
+    width:280px;
+    background:white;
+    padding:20px;
+    border-radius:12px;
+    box-shadow:0 5px 15px rgba(0,0,0,.1);
+    transition:0.3s;
+}
+.card:hover{
+    transform:translateY(-8px);
+}
+.card h3{
+    margin-bottom:15px;
+    color:#1e3a8a;
+}
+.card p{
+    margin-bottom:10px;
+    color:#444;
+}
+.modifier{
+    width:100%;
+    padding:10px;
+    margin-top:10px;
+    border:none;
+    border-radius:8px;
+    background:#2563eb;
+    color:white;
+    cursor:pointer;
+}
+.modifier:hover{
+    background:#1d4ed8;
+}
+.supprimer{
+    width:100%;
+    padding:10px;
+    margin-top:10px;
+    border:none;
+    border-radius:8px;
+    background:#dc2626;
+    color:white;
+    cursor:pointer;
+}
+.supprimer:hover{
+    background:#b91c1c;
+}
+.ajouter-container{
+    display:flex;
+    justify-content:flex-end;
+    margin-top:30px;
+}
+
+.btn-ajouter{
+    background:#2563eb;
+    color:white;
+    text-decoration:none;
+    padding:12px 22px;
+    border-radius:8px;
+    font-weight:bold;
+    transition:0.3s;
+}
+.btn-ajouter:hover{
+    background:#1d4ed8;
+}
+footer{
+    margin-top:80px;
+    background:#1e3a8a;
+    color:white;
+    text-align:center;
+    padding:25px;
+}
+.login-container{
+    width:400px;
+    margin:80px auto;
+    background:white;
+    padding:35px;
+    border-radius:12px;
+    box-shadow:0 5px 15px rgba(0,0,0,.1);
+}
+.login-container h2{
+    text-align:center;
+    color:#2563eb;
+    margin-bottom:25px;
+}
+.login-container input{
+    width:100%;
+    padding:14px;
+    margin-bottom:20px;
+    border:1px solid #ccc;
+    border-radius:8px;
+    font-size:16px;
+}
+.login-container button{
+    width:100%;
+    padding:14px;
+    background:#2563eb;
+    color:white;
+    border:none;
+    border-radius:8px;
+    font-size:16px;
+    cursor:pointer;
+}
+.login-container button:hover{
+    background:#1d4ed8;
+}
