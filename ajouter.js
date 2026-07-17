@@ -55,3 +55,4 @@ reader.onload = async function () {
     }
 
 };
+}); 
