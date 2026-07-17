@@ -36,7 +36,7 @@ btnAjouter.addEventListener("click", async () => {
 
         alert("Annonce ajoutée avec succès !");
 
-        window.location.href = "accueil.html";
+        window.location.href = "index.html";
 
     } catch (error) {
 
