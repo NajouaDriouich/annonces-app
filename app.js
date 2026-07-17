@@ -17,8 +17,7 @@ async function afficherAnnonces() {
         liste.innerHTML += `
       <div class="card">
 
-        <img src="${annonce.image}" class="photoAnnonce" alt="Image">
-
+        <img src="${annonce.image || 'bouton-daccueil.png'}" class="photoAnnonce" alt="Image">
         <div class="info">
 
             <h3>${annonce.nom}</h3>
