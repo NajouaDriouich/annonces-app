@@ -11,8 +11,9 @@ btnAjouter.addEventListener("click", async () => {
 
     const nom = document.getElementById("nom").value;
     const prix = document.getElementById("prix").value;
+    const image = document.getElementById("image").files[0];
 
-    if (nom === "" || prix === "") {
+    if (nom === "" || prix === "" || !image) {
         alert("Veuillez remplir tous les champs.");
         return;
     }
@@ -22,6 +23,15 @@ btnAjouter.addEventListener("click", async () => {
         window.location.href = "login.html";
         return;
     }
+    let imageBase64 = "";
+
+const reader = new FileReader();
+
+reader.readAsDataURL(image);
+
+reader.onload = async function () {
+
+    imageBase64 = reader.result;
 
     try {
 
@@ -30,13 +40,13 @@ btnAjouter.addEventListener("click", async () => {
             nom: nom,
             prix: Number(prix),
             date: new Date().toLocaleDateString("fr-FR"),
+            image: imageBase64,
             userId: auth.currentUser.uid
 
         });
 
         alert("Annonce ajoutée avec succès !");
-
-        window.location.href = "index.html";
+        window.location.href = "accueil.html";
 
     } catch (error) {
 
@@ -44,4 +54,4 @@ btnAjouter.addEventListener("click", async () => {
 
     }
 
-});
+};
