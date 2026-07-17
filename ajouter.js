@@ -11,7 +11,7 @@ btnAjouter.addEventListener("click", async () => {
 
     const nom = document.getElementById("nom").value;
     const prix = document.getElementById("prix").value;
-    const image = document.getElementById("image").files[0];
+   const image = document.getElementById("image").value;
 
     if (nom === "" || prix === "" || !image) {
         alert("Veuillez remplir tous les champs.");
