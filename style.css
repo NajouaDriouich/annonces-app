@@ -305,3 +305,36 @@ footer{
         max-width: 340px;
     }
 }
+.card{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0,0,0,.1);
+    margin-bottom: 20px;
+}
+
+.photoAnnonce{
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 10px;
+    flex-shrink: 0;
+}
+
+.info{
+    flex: 1;
+}
+
+.info h3{
+    color:#2563eb;
+    margin-bottom:15px;
+    font-size:28px;
+}
+
+.info p{
+    margin:8px 0;
+    font-size:18px;
+}
