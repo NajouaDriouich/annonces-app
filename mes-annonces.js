@@ -22,15 +22,34 @@ async function afficherMesAnnonces() {
         if (auth.currentUser && annonce.userId === auth.currentUser.uid) {
 
             liste.innerHTML += `
-            <div class="card">
-             <h3>${annonce.nom}</h3>
-             <p><strong>ID :</strong> ${document.id}</p>
-             <p><strong>Prix :</strong> ${annonce.prix} DH</p>
-             <p><strong>Date :</strong> ${annonce.date}</p>
-             <button class="modifier" onclick="modifierAnnonce('${document.id}','${annonce.nom}',${annonce.prix})">Modifier</button>
-             <button class="supprimer" onclick="supprimerAnnonce('${document.id}')"> Supprimer </button>
-            </div>
-            `;
+<div class="card">
+
+    <img src="${annonce.image}" class="photoAnnonce" alt="Image de l'annonce">
+
+    <div class="info">
+
+        <h3>${annonce.nom}</h3>
+
+        <p><strong>ID :</strong> ${document.id}</p>
+
+        <p><strong>Prix :</strong> ${annonce.prix} DH</p>
+
+        <p><strong>Date :</strong> ${annonce.date}</p>
+
+        <button class="modifier"
+            onclick="modifierAnnonce('${document.id}','${annonce.nom}',${annonce.prix})">
+            Modifier
+        </button>
+
+        <button class="supprimer"
+            onclick="supprimerAnnonce('${document.id}')">
+            Supprimer
+        </button>
+
+    </div>
+
+</div>
+`;
 
         }
 
