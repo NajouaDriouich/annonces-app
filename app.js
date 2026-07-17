@@ -75,7 +75,7 @@ btnLogout.addEventListener("click", async () => {
 
     alert("Déconnexion réussie");
 
-    window.location.href = "accueil.html";
+    window.location.href = "index.html";
 
 });
 window.voirAnnonces = function () {
