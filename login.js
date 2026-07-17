@@ -20,7 +20,7 @@ btnLogin.addEventListener("click", async () => {
 
         alert("Connexion réussie !");
 
-        window.location.href="accueil.html";
+        window.location.href="index.html";
 
     }
 
