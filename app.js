@@ -15,13 +15,24 @@ async function afficherAnnonces() {
     querySnapshot.forEach((document) => {
         const annonce = document.data();
         liste.innerHTML += `
-            <div class="card">
-                <h3>${annonce.nom}</h3>
-                <p><strong>Prix :</strong> ${annonce.prix} DH</p>
-                <p><strong>Date :</strong> ${annonce.date}</p>
-                <p><strong>ID :</strong> ${document.id}</p>
-            </div>
-        `;
+      <div class="card">
+
+        <img src="${annonce.image}" class="photoAnnonce" alt="Image">
+
+        <div class="info">
+
+            <h3>${annonce.nom}</h3>
+
+            <p><strong>Prix :</strong> ${annonce.prix} DH</p>
+
+            <p><strong>Date :</strong> ${annonce.date}</p>
+
+            <p><strong>ID :</strong> ${document.id}</p>
+
+        </div>
+
+   </div>
+  `;
     });
 }
 onAuthStateChanged(auth, (user) => {
