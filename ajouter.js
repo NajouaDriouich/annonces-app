@@ -23,16 +23,6 @@ btnAjouter.addEventListener("click", async () => {
         window.location.href = "login.html";
         return;
     }
-    let imageBase64 = "";
-
-const reader = new FileReader();
-
-reader.readAsDataURL(image);
-
-reader.onload = async function () {
-
-    imageBase64 = reader.result;
-
     try {
 
         await addDoc(collection(db, "annonces"), {
