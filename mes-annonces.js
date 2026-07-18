@@ -4,9 +4,13 @@ import {
     collection,
     getDocs,
     deleteDoc,
-    updateDoc,
     doc
 } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
+
+import {
+    onAuthStateChanged
+} from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
+
 const liste = document.getElementById("liste");
 
 async function afficherMesAnnonces() {
@@ -22,34 +26,38 @@ async function afficherMesAnnonces() {
         if (auth.currentUser && annonce.userId === auth.currentUser.uid) {
 
             liste.innerHTML += `
-<div class="card">
+                <div class="card">
 
-    <img src="${annonce.image || 'bouton-daccueil.png'}" class="photoAnnonce" alt="Image de l'annonce">
+                    <img src="${annonce.image || 'bouton-daccueil.png'}"
+                         class="photoAnnonce"
+                         alt="Image">
 
-    <div class="info">
+                    <div class="info">
 
-        <h3>${annonce.nom}</h3>
+                        <h3>${annonce.nom}</h3>
 
-        <p><strong>ID :</strong> ${document.id}</p>
+                        <p><strong>ID :</strong> ${document.id}</p>
 
-        <p><strong>Prix :</strong> ${annonce.prix} DH</p>
+                        <p><strong>Prix :</strong> ${annonce.prix} DH</p>
 
-        <p><strong>Date :</strong> ${annonce.date}</p>
+                        <p><strong>Date :</strong> ${annonce.date}</p>
 
-        <button class="modifier"
-            onclick="modifierAnnonce('${document.id}','${annonce.nom}',${annonce.prix})">
-            Modifier
-        </button>
+                        <button
+                            class="modifier"
+                            onclick="modifierAnnonce('${document.id}')">
+                            Modifier
+                        </button>
 
-        <button class="supprimer"
-            onclick="supprimerAnnonce('${document.id}')">
-            Supprimer
-        </button>
+                        <button
+                            class="supprimer"
+                            onclick="supprimerAnnonce('${document.id}')">
+                            Supprimer
+                        </button>
 
-    </div>
+                    </div>
 
-</div>
-`;
+                </div>
+            `;
 
         }
 
@@ -57,36 +65,36 @@ async function afficherMesAnnonces() {
 
 }
 
-afficherMesAnnonces();
-window.modifierAnnonce = async function(id, ancienNom, ancienPrix) {
+onAuthStateChanged(auth, (user) => {
 
-    const nouveauNom = prompt("Nouveau nom :", ancienNom);
+    if (user) {
 
-    if (nouveauNom == null) return;
+        afficherMesAnnonces();
 
-    const nouveauPrix = prompt("Nouveau prix :", ancienPrix);
+    } else {
 
-    if (nouveauPrix == null) return;
+        window.location.href = "login.html";
 
-    await updateDoc(doc(db, "annonces", id), {
-        nom: nouveauNom,
-        prix: Number(nouveauPrix)
-    });
+    }
 
-    alert("Annonce modifiée avec succès !");
+});
 
-    location.reload();
-}
+window.modifierAnnonce = function(id){
 
-window.supprimerAnnonce = async function(id) {
+    window.location.href = `modifier.html?id=${id}`;
+
+};
+
+window.supprimerAnnonce = async function(id){
 
     const confirmation = confirm("Voulez-vous supprimer cette annonce ?");
 
-    if (!confirmation) return;
+    if(!confirmation) return;
 
-    await deleteDoc(doc(db, "annonces", id));
+    await deleteDoc(doc(db,"annonces",id));
 
-    alert("Annonce supprimée.");
+    alert("Annonce supprimée !");
 
     location.reload();
-}
+
+};

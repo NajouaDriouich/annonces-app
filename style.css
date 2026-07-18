@@ -144,32 +144,6 @@ body{
     margin-bottom:25px;
     color:#1e3a8a;
 }
-.modifier{
-    width:100%;
-    padding:10px;
-    margin-top:10px;
-    border:none;
-    border-radius:8px;
-    background:#2563eb;
-    color:white;
-    cursor:pointer;
-}
-.modifier:hover{
-    background:#1d4ed8;
-}
-.supprimer{
-    width:100%;
-    padding:10px;
-    margin-top:10px;
-    border:none;
-    border-radius:8px;
-    background:#dc2626;
-    color:white;
-    cursor:pointer;
-}
-.supprimer:hover{
-    background:#b91c1c;
-}
 .ajouter-container{
     display:flex;
     justify-content:flex-end;
@@ -274,6 +248,76 @@ footer{
     #liste {
         padding: 10px;
     }
+}
+#liste{
+    display:flex;
+    flex-direction:column;
+    gap:8px;
+}
+
+.card{
+    display:flex;
+    align-items:center;
+    gap:20px;
+    background:#fff;
+    padding:15px;
+    border:1px solid #ddd;
+    border-radius:10px;
+    box-shadow:0 2px 8px rgba(0,0,0,.08);
+}
+
+.photoAnnonce{
+    width:170px;
+    height:170px;
+    object-fit:cover;
+    border-radius:8px;
+    flex-shrink:0;
+}
+
+.info{
+    flex:1;
+}
+
+.info h3{
+    color:#2563eb;
+    font-size:24px;
+    margin-bottom:10px;
+}
+
+.info p{
+    margin:5px 0;
+    font-size:17px;
+}
+
+.modifier,
+.supprimer{
+    width:140px;
+    padding:10px;
+    margin-top:10px;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+}
+
+.modifier{
+    background:#2563eb;
+    color:white;
+}
+
+.modifier:hover{
+    background:#1d4ed8;
+}
+
+.supprimer{
+    background:#dc2626;
+    color:white;
+}
+
+.supprimer:hover{
+    background:#b91c1c;
+}
+
+@media(max-width:768px){
 
     .card{
         flex-direction:column;
@@ -284,37 +328,10 @@ footer{
         width:100%;
         height:220px;
     }
-}
-.card{
-    display: flex;
-    align-items: center;
-    gap: 20px;
-    background: white;
-    padding: 20px;
-    border-radius: 12px;
-    box-shadow: 0 5px 15px rgba(0,0,0,.1);
-    margin-bottom: 20px;
-}
 
-.photoAnnonce{
-    width: 180px;
-    height: 180px;
-    object-fit: cover;
-    border-radius: 10px;
-    flex-shrink: 0;
-}
+    .modifier,
+    .supprimer{
+        width:100%;
+    }
 
-.info{
-    flex: 1;
-}
-
-.info h3{
-    color:#2563eb;
-    margin-bottom:15px;
-    font-size:28px;
-}
-
-.info p{
-    margin:8px 0;
-    font-size:18px;
 }

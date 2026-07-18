@@ -24,7 +24,7 @@ btnSignup.addEventListener("click", async () => {
 
         alert("Inscription réussie !");
 
-        window.location.href = "login.html";
+        window.location.href = "index.html";
 
     } catch(error) {
         if (error.code === "auth/email-already-in-use") {
