@@ -1,11 +1,12 @@
 <!doctype html>
 <html lang="fr">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Modifier une annonce</title>
 
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="style.css">
+
     <style>
       * {
         margin: 0;
@@ -81,23 +82,27 @@
       }
     </style>
   </head>
+
   <body>
-    <
-    <div class="modifier-container">
-      <h2>Modifier une annonce</h2>
 
-      <label>Nom</label>
-      <input type="text" id="nom" />
+    <main>
+      <div class="modifier-container">
+        <h2>Modifier une annonce</h2>
 
-      <label>Prix</label>
-      <input type="number" id="prix" />
+        <label for="nom">Nom</label>
+        <input type="text" id="nom">
 
-      <label>Image</label>
-      <input type="file" id="image" accept="image/*" />
+        <label for="prix">Prix</label>
+        <input type="number" id="prix">
 
-      <button id="btnModifier">Enregistrer les modifications</button>
-    </div>
+        <label for="image">Image</label>
+        <input type="file" id="image" accept="image/*">
+
+        <button id="btnModifier">Enregistrer les modifications</button>
+      </div>
+    </main>
 
     <script type="module" src="modifier.js"></script>
+
   </body>
 </html>

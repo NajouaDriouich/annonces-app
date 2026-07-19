@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mes annonces</title>
 
     <link rel="stylesheet" href="style.css">
-
     <link rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </head>
+
 <body>
 
 <header>
     <nav class="navbar">
 
         <div class="logo">
-            <img src="bouton-daccueil.png" alt="">
+            <img src="bouton-daccueil.png" alt="Logo Annonces App">
             <h1>Annonces App</h1>
         </div>
 
@@ -40,18 +40,23 @@
     </nav>
 </header>
 
-<div class="annonces">
-    <h2>Mes annonces</h2>
+<main>
 
-    <div id="liste"></div>
-</div>
+    <section class="annonces">
+        <h2>Mes annonces</h2>
 
-<script type="module" src="mes-annonces.js"></script>
+        <div id="liste"></div>
+    </section>
 
-</body>
+</main>
+
 <input
     type="file"
     id="imageModifier"
     accept="image/*"
     style="display:none">
+
+<script type="module" src="mes-annonces.js"></script>
+
+</body>
 </html>

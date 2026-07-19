@@ -1,57 +1,95 @@
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!DOCTYPE html>
+<html lang="fr">
 
-        <title>AnnoncesApp - Plateforme d'annonces gratuites</title>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <meta name="description" content="AnnoncesApp est une plateforme pour publier et consulter des annonces gratuitement.">
+    <title>AnnoncesApp - Plateforme d'annonces gratuites</title>
 
-        <meta name="keywords" content="annonces, achat, vente, maroc">
+    <meta name="description" content="AnnoncesApp est une plateforme pour publier et consulter des annonces gratuitement.">
+    <meta name="keywords" content="annonces, achat, vente, maroc">
+    <meta name="author" content="Najoua Driouich">
+    <meta name="robots" content="index, follow">
 
-        <meta name="author" content="Najoua Driouich">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
 
-        <meta name="robots" content="index, follow">
+<body>
 
-        <link rel="stylesheet" href="style.css">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-        <link rel="stylesheet" href="style.css">
-    </head>
-    <body>
-       <header>
-         <nav class="navbar">
-          <div class="logo">
-            <img src="bouton-daccueil.png" alt="logo annonces App">
+<header>
+    <nav class="navbar">
+
+        <div class="logo">
+            <img src="bouton-daccueil.png" alt="Logo Annonces App">
             <h1>Annonces App</h1>
-          </div>
-            <div class="menu">
-                <a href="index.html" class="active"><i class="fa-solid fa-house"></i> Accueil</a>
-                <a href="mes-annonces.html"><i class="fa-solid fa-list"></i> Mes annonces</a>
-                <a href="apropos.html"><i class="fa-solid fa-circle-info"></i> À propos</a>
-            </div>
-           <div class="buttons">
-            <button id="btnLogin" class="login" onclick="location.href='login.html'">Se connecter</button>
-            <button id="btnSignup" class="signup" onclick="location.href='signup.html'">S'inscrire</button>
-            <button id="btnLogout" class="logout">Déconnexion</button>
-           </div>
-         </nav>
-       </header> 
-       <div class="hero">
+        </div>
+
+        <div class="menu">
+            <a href="index.html" class="active">
+                <i class="fa-solid fa-house"></i> Accueil
+            </a>
+
+            <a href="mes-annonces.html">
+                <i class="fa-solid fa-list"></i> Mes annonces
+            </a>
+
+            <a href="apropos.html">
+                <i class="fa-solid fa-circle-info"></i> À propos
+            </a>
+        </div>
+
+        <div class="buttons">
+            <button id="btnLogin" class="login" onclick="location.href='login.html'">
+                Se connecter
+            </button>
+
+            <button id="btnSignup" class="signup" onclick="location.href='signup.html'">
+                S'inscrire
+            </button>
+
+            <button id="btnLogout" class="logout">
+                Déconnexion
+            </button>
+        </div>
+
+    </nav>
+</header>
+
+<main>
+
+    <section class="hero">
         <h1>Bienvenue sur Annonces App</h1>
         <p>Publiez et consultez facilement des annonces</p>
-        <button onclick="voirAnnonces()"> Voir les annonces</button>
-       </div>
-       <div class="annonces" id="annonces">
+
+        <button onclick="voirAnnonces()">
+            Voir les annonces
+        </button>
+    </section>
+
+    <section class="annonces" id="annonces">
+
         <h2>Les annonces</h2>
+
         <div id="liste"></div>
+
         <div class="ajouter-container">
-            <a href="ajouter.html" id="btnAjouter" class="btn-ajouter"><i class="fa-solid fa-plus"></i> Ajouter une annonce</a>
+            <a href="ajouter.html" id="btnAjouter" class="btn-ajouter">
+                <i class="fa-solid fa-plus"></i>
+                Ajouter une annonce
+            </a>
         </div>
-       </div>
-       <script type="module" src="app.js"></script>
-       <footer>
-        <p>© 2026 Annonces App - Tous droits réservés</p>
-       </footer>
-    </body>
+
+    </section>
+
+</main>
+
+<footer>
+    <p>© 2026 Annonces App - Tous droits réservés</p>
+</footer>
+
+<script type="module" src="app.js"></script>
+
+</body>
 </html>
