@@ -38,14 +38,14 @@ querySnapshot.forEach((document) => {
         liste.innerHTML += `
             <div class="card">
 
-                <img src="${annonce.image ? annonce.image.replace('/upload/', '/upload/f_auto,q_auto,w_500/')
-                    : 'bouton-daccueil.png'}"
+                <img src="${annonce.image}"
                     class="photoAnnonce"
                     alt="${annonce.nom}"
                     loading="lazy"
+                    decoding="async"
+                    fetchpriority="low"
                     width="300"
-                    height="200">
-
+                    height="220">
                 <div class="info">
 
                     <h3>${annonce.nom}</h3>
