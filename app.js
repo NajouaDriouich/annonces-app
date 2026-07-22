@@ -38,7 +38,7 @@ querySnapshot.forEach((document) => {
         liste.innerHTML += `
             <div class="card">
 
-                <img src="${annonce.image}"
+                <img src="${annonce.image.replace('/upload/', '/upload/f_auto,q_auto,w_350/')}"
                     class="photoAnnonce"
                     alt="${annonce.nom}"
                     loading="lazy"
@@ -119,6 +119,7 @@ async function chargerVilles() {
     querySnapshot.forEach((doc) => {
 
         const annonce = doc.data();
+        console.log(annonce.image);
 
         if (!villes.includes(annonce.ville)) {
 

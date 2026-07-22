@@ -14,8 +14,12 @@
     <meta name="keywords" content="annonces, achat, vente, maroc">
     <meta name="author" content="Najoua Driouich">
     <meta name="robots" content="index, follow">
+   <link rel="preload" href="style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    </noscript>
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" media="print" onload="this.media='all'">
 </head>
 
 <body>
@@ -101,7 +105,7 @@
     <p>© 2026 Annonces App - Tous droits réservés</p>
 </footer>
 
-<script type="module" src="app.js"></script>
+<script type="module" src="app.js" defer></script>
 
 </body>
 </html>
