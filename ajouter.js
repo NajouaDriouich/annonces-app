@@ -218,25 +218,31 @@ console.log("Code final envoyé Firebase :", codePostal);
 
         );
 
-        const data = await response.json();
+       const data = await response.json();
 
-        await addDoc(collection(db, "annonces"), {
+// Optimisation de l'image Cloudinary
+const imageOptimisee = data.secure_url.replace(
+    "/upload/",
+    "/upload/f_auto,q_auto:low,w_350/"
+);
 
-            nom: nom,
+await addDoc(collection(db, "annonces"), {
 
-            prix: Number(prix),
+    nom: nom,
 
-            ville: ville,
+    prix: Number(prix),
 
-            codePostal: codePostal,
+    ville: ville,
 
-            date: new Date().toLocaleDateString("fr-FR"),
+    codePostal: codePostal,
 
-            image: data.secure_url,
+    date: new Date().toLocaleDateString("fr-FR"),
 
-            userId: auth.currentUser.uid
+    image: imageOptimisee,
 
-        });
+    userId: auth.currentUser.uid
+
+});
 
         alert("Annonce ajoutée avec succès !");
 

@@ -120,7 +120,10 @@ body:formData
 );
 const data = await response.json();
 
-imageUrl = data.secure_url;
+imageUrl = data.secure_url.replace(
+    "/upload/",
+    "/upload/f_auto,q_auto:low,w_350/"
+);
 
 }
 const ville = villeInput.dataset.ville || villeInput.value;
