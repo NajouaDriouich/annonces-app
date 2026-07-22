@@ -135,7 +135,7 @@ async function compresserImage(file) {
 
                     "image/jpeg",
 
-                    0.7
+                    0.4
 
                 );
 
