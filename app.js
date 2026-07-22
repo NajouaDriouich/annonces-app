@@ -16,47 +16,64 @@ const btnLogin = document.getElementById("btnLogin");
 const btnSignup = document.getElementById("btnSignup");
 const btnLogout = document.getElementById("btnLogout");
 const btnAjouter = document.getElementById("btnAjouter");
+const filtreVille = document.getElementById("filtreVille");
 
 async function afficherAnnonces() {
+    const villeChoisie = filtreVille.value;
 
     liste.innerHTML = "";
 
     const querySnapshot = await getDocs(collection(db, "annonces"));
 
-    querySnapshot.forEach((document) => {
 
-        const annonce = document.data();
+querySnapshot.forEach((document) => {
+
+    const annonce = document.data();
+
+    if (
+        villeChoisie === "Toutes" ||
+        annonce.ville === villeChoisie
+    ) {
 
         liste.innerHTML += `
             <div class="card">
 
-                <img
-                    src="${annonce.image || 'bouton-daccueil.png'}"
+                <img src="${annonce.image ? annonce.image.replace('/upload/', '/upload/f_auto,q_auto,w_500/')
+                    : 'bouton-daccueil.png'}"
                     class="photoAnnonce"
-                    alt="Image annonce">
+                    alt="${annonce.nom}"
+                    loading="lazy"
+                    width="300"
+                    height="200">
 
                 <div class="info">
 
                     <h3>${annonce.nom}</h3>
-
                     <p><strong>Prix :</strong> ${annonce.prix} DH</p>
 
                     <p><strong>Date :</strong> ${annonce.date}</p>
 
-                    <p><strong>ID :</strong> ${document.id}</p>
+                    <p>
+                        <strong>Ville :</strong>
+                        📍 ${annonce.ville} • ${annonce.codePostal}
+                    </p>
+
+    
 
                 </div>
 
             </div>
-        `;
+         `;
 
-    });
+    }
 
+});
 }
 
 onAuthStateChanged(auth, (user) => {
 
     afficherAnnonces();
+    chargerVilles();
 
     if (user) {
 
@@ -93,3 +110,39 @@ window.voirAnnonces = function () {
     });
 
 };
+async function chargerVilles() {
+
+    const querySnapshot = await getDocs(collection(db, "annonces"));
+
+    const villes = [];
+
+    querySnapshot.forEach((doc) => {
+
+        const annonce = doc.data();
+
+        if (!villes.includes(annonce.ville)) {
+
+            villes.push(annonce.ville);
+
+        }
+
+    });
+
+    villes.sort();
+
+    villes.forEach(ville => {
+
+        filtreVille.innerHTML += `
+            <option value="${ville}">
+                ${ville}
+            </option>
+        `;
+
+    });
+
+}
+filtreVille.addEventListener("change", () => {
+
+    afficherAnnonces();
+
+});

@@ -28,9 +28,15 @@ async function afficherMesAnnonces() {
             liste.innerHTML += `
                 <div class="card">
 
-                    <img src="${annonce.image || 'bouton-daccueil.png'}"
-                         class="photoAnnonce"
-                         alt="Image">
+                    <img
+                        src="${annonce.image
+                             ? annonce.image.replace('/upload/', '/upload/f_auto,q_auto,w_500/')
+                        : 'bouton-daccueil.png'}"
+                        class="photoAnnonce"
+                        alt="${annonce.nom}"
+                        loading="lazy"
+                        width="300"
+                        height="200">
 
                     <div class="info">
 
@@ -40,8 +46,12 @@ async function afficherMesAnnonces() {
 
                         <p><strong>Prix :</strong> ${annonce.prix} DH</p>
 
-                        <p><strong>Date :</strong> ${annonce.date}</p>
+                        <p>
+                            <strong>Ville :</strong>
+                                📍 ${annonce.ville} • ${annonce.codePostal}
+                        </p>
 
+                        <p><strong>Date :</strong> ${annonce.date}</p>
                         <button
                             class="modifier"
                             onclick="modifierAnnonce('${document.id}')">

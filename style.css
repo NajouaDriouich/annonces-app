@@ -267,11 +267,10 @@ footer{
 }
 
 .photoAnnonce{
-    width:170px;
-    height:170px;
+    width:300px;
+    height:200px;
     object-fit:cover;
-    border-radius:8px;
-    flex-shrink:0;
+    border-radius:10px;
 }
 
 .info{
@@ -334,4 +333,36 @@ footer{
         width:100%;
     }
 
+}
+.filtre{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.filtre label{
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+}
+
+#filtreVille{
+    padding: 8px 14px;
+    font-size: 15px;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    background: white;
+    cursor: pointer;
+    outline: none;
+    transition: 0.3s;
+}
+
+#filtreVille:hover{
+    border-color: #2563eb;
+}
+
+#filtreVille:focus{
+    border-color: #2563eb;
+    box-shadow: 0 0 5px rgba(37,99,235,0.3);
 }

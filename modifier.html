@@ -1,11 +1,11 @@
 <!doctype html>
 <html lang="fr">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Modifier une annonce</title>
 
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css" />
 
     <style>
       * {
@@ -80,29 +80,55 @@
           padding: 25px;
         }
       }
+      .suggestions {
+        max-height: 220px;
+        overflow-y: auto;
+        border: 1px solid #ccc;
+        border-top: none;
+        background: white;
+        border-radius: 0 0 8px 8px;
+        display: none;
+      }
+
+      .suggestion {
+        padding: 10px;
+        cursor: pointer;
+      }
+
+      .suggestion:hover {
+        background: #2563eb;
+        color: white;
+      }
     </style>
   </head>
 
   <body>
-
     <main>
       <div class="modifier-container">
         <h2>Modifier une annonce</h2>
 
         <label for="nom">Nom</label>
-        <input type="text" id="nom">
+        <input type="text" id="nom" />
 
         <label for="prix">Prix</label>
-        <input type="number" id="prix">
+        <input type="number" id="prix" />
 
         <label for="image">Image</label>
-        <input type="file" id="image" accept="image/*">
+        <input type="file" id="image" accept="image/*" />
+        <label for="ville">Ville</label>
+        <input
+          type="text"
+          id="ville"
+          placeholder="Rechercher une ville..."
+          autocomplete="off"
+        />
+
+        <div id="listeVilles" class="suggestions"></div>
 
         <button id="btnModifier">Enregistrer les modifications</button>
       </div>
     </main>
 
     <script type="module" src="modifier.js"></script>
-
   </body>
 </html>

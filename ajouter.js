@@ -9,7 +9,82 @@ const CLOUD_NAME = "krf6hsgu";
 const UPLOAD_PRESET = "annonces-app";
 
 const btnAjouter = document.getElementById("btnAjouter");
+const villeInput = document.getElementById("ville");
+const listeVilles = document.getElementById("listeVilles");
 
+let villes = [];
+
+// Charger les villes
+async function chargerVilles() {
+
+    try {
+        const response = await fetch("./data/maroc_villes_complet.json");
+
+        villes = await response.json();
+
+    } catch (error) {
+
+        console.error("Erreur lors du chargement des villes :", error);
+
+    }
+
+}
+
+chargerVilles();
+
+villeInput.addEventListener("input", () => {
+
+    const recherche = villeInput.value.toLowerCase().trim();
+
+    listeVilles.innerHTML = "";
+
+    if (recherche.length < 2) {
+
+        listeVilles.style.display = "none";
+        return;
+
+    }
+
+    const resultat = villes
+        .filter(v => v.ville.toLowerCase().includes(recherche))
+        .slice(0, 10);
+
+    resultat.forEach(v => {
+
+        const div = document.createElement("div");
+
+        div.className = "suggestion";
+
+       div.innerHTML = `
+              <strong>${v.ville}</strong>
+              <br>
+              <small>📮 ${v.code_postal}</small>
+       `;
+
+        div.onclick = () => {
+
+            villeInput.value = v.ville;
+
+            villeInput.dataset.ville = v.ville;
+            villeInput.dataset.codePostal = v.code_postal;
+
+            console.log("Choisie :", v.ville);
+            console.log("Code postal :", v.code_postal);
+
+            listeVilles.style.display = "none";
+
+        };
+
+        listeVilles.appendChild(div);
+
+    });
+
+    listeVilles.style.display =
+        resultat.length ? "block" : "none";
+
+});
+
+// Compression image
 async function compresserImage(file) {
 
     return new Promise((resolve) => {
@@ -38,7 +113,9 @@ async function compresserImage(file) {
                     height *= MAX / width;
                     width = MAX;
 
-                } else if (height > MAX) {
+                }
+
+                else if (height > MAX) {
 
                     width *= MAX / height;
                     height = MAX;
@@ -53,9 +130,13 @@ async function compresserImage(file) {
                 ctx.drawImage(img, 0, 0, width, height);
 
                 canvas.toBlob(
+
                     (blob) => resolve(blob),
+
                     "image/jpeg",
+
                     0.7
+
                 );
 
             };
@@ -65,16 +146,36 @@ async function compresserImage(file) {
     });
 
 }
-
 btnAjouter.addEventListener("click", async () => {
 
     const nom = document.getElementById("nom").value.trim();
     const prix = document.getElementById("prix").value;
+    const ville = villeInput.dataset.ville || "";
     const image = document.getElementById("image").files[0];
+
+    let codePostal = villeInput.dataset.codePostal || "";
+
+    // Vérifier que la ville existe dans la liste officielle
+    const villeChoisie = villes.find(
+    v => v.ville.toLowerCase() === ville.toLowerCase()
+);
+
+if (!villeChoisie) {
+
+    alert("Veuillez choisir une ville dans la liste.");
+
+    return;
+
+}
+
+codePostal = villeChoisie.code_postal;
+
+console.log("Code final envoyé Firebase :", codePostal);
 
     if (nom === "" || prix === "" || !image) {
 
         alert("Veuillez remplir tous les champs.");
+
         return;
 
     }
@@ -82,12 +183,15 @@ btnAjouter.addEventListener("click", async () => {
     if (!auth.currentUser) {
 
         alert("Vous devez vous connecter.");
+
         window.location.href = "login.html";
+
         return;
 
     }
 
     btnAjouter.disabled = true;
+
     btnAjouter.textContent = "Publication...";
 
     try {
@@ -97,54 +201,58 @@ btnAjouter.addEventListener("click", async () => {
         const formData = new FormData();
 
         formData.append("file", imageCompressee, image.name);
+
         formData.append("upload_preset", UPLOAD_PRESET);
 
-        console.log("Début upload");
-
-        const debut = performance.now();
-
         const response = await fetch(
+
             `https://api.cloudinary.com/v1_1/${CLOUD_NAME}/image/upload`,
+
             {
+
                 method: "POST",
+
                 body: formData
+
             }
+
         );
 
-        const fin = performance.now();
-
-        console.log("Upload terminé");
-        console.log("Temps upload :", ((fin - debut) / 1000).toFixed(2), "secondes");
-
         const data = await response.json();
-
-        console.log("Début Firestore");
 
         await addDoc(collection(db, "annonces"), {
 
             nom: nom,
+
             prix: Number(prix),
+
+            ville: ville,
+
+            codePostal: codePostal,
+
             date: new Date().toLocaleDateString("fr-FR"),
+
             image: data.secure_url,
+
             userId: auth.currentUser.uid
 
         });
-
-        console.log("Firestore terminé");
 
         alert("Annonce ajoutée avec succès !");
 
         window.location.href = "index.html";
 
-    } catch (error) {
-
-        console.error(error);
-
-        alert(error.message);
-
-        btnAjouter.disabled = false;
-        btnAjouter.textContent = "Publier";
-
     }
 
+    catch (error) {
+
+    console.error("ERREUR COMPLETE :", error);
+
+    alert("Erreur : " + error.message);
+
+    btnAjouter.disabled = false;
+
+    btnAjouter.textContent = "Publier";
+
+}
 });

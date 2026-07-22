@@ -1,0 +1,5406 @@
+[
+    {
+        "ville": "Aazanen",
+        "code_postal": "62022"
+    },
+    {
+        "ville": "Abachkou",
+        "code_postal": "22472"
+    },
+    {
+        "ville": "Abadou",
+        "code_postal": "42072"
+    },
+    {
+        "ville": "Abainou",
+        "code_postal": "81024"
+    },
+    {
+        "ville": "Abteh",
+        "code_postal": "82022"
+    },
+    {
+        "ville": "Achbarou",
+        "code_postal": "52482"
+    },
+    {
+        "ville": "Achlouj",
+        "code_postal": "33022"
+    },
+    {
+        "ville": "Aday Almezouarte",
+        "code_postal": "85122"
+    },
+    {
+        "ville": "Aereport Oujda Angad",
+        "code_postal": "60023"
+    },
+    {
+        "ville": "Afalla Issen",
+        "code_postal": "41084"
+    },
+    {
+        "ville": "Afereket Ait Yassine",
+        "code_postal": "81025"
+    },
+    {
+        "ville": "Afourer",
+        "code_postal": "22052"
+    },
+    {
+        "ville": "Afra",
+        "code_postal": "47076"
+    },
+    {
+        "ville": "Afsou",
+        "code_postal": "62822"
+    },
+    {
+        "ville": "Agadir",
+        "code_postal": "80000"
+    },
+    {
+        "ville": "Agadir Aereport",
+        "code_postal": "86603"
+    },
+    {
+        "ville": "Agadir Melloul",
+        "code_postal": "83532"
+    },
+    {
+        "ville": "Agdal Imilchil",
+        "code_postal": "52426"
+    },
+    {
+        "ville": "Agdz",
+        "code_postal": "47050"
+    },
+    {
+        "ville": "Aghbalou",
+        "code_postal": "42472"
+    },
+    {
+        "ville": "Aghbalou Nserdane",
+        "code_postal": "54152"
+    },
+    {
+        "ville": "Aghbalou Zaouia",
+        "code_postal": "22272"
+    },
+    {
+        "ville": "Aglou Plage",
+        "code_postal": "85032"
+    },
+    {
+        "ville": "Agoudim",
+        "code_postal": "54522"
+    },
+    {
+        "ville": "Agourai",
+        "code_postal": "51050"
+    },
+    {
+        "ville": "Aguelmouss",
+        "code_postal": "54052"
+    },
+    {
+        "ville": "Aguerd Ntezke",
+        "code_postal": "87422"
+    },
+    {
+        "ville": "Aguerd Tamanart",
+        "code_postal": "84122"
+    },
+    {
+        "ville": "Aguinane",
+        "code_postal": "84076"
+    },
+    {
+        "ville": "Ahdil",
+        "code_postal": "41025"
+    },
+    {
+        "ville": "Ahfir",
+        "code_postal": "63050"
+    },
+    {
+        "ville": "Ahl Tifnoute",
+        "code_postal": "83172"
+    },
+    {
+        "ville": "Ahlaf",
+        "code_postal": "13322"
+    },
+    {
+        "ville": "Ahmar",
+        "code_postal": "83022"
+    },
+    {
+        "ville": "Ain Aicha",
+        "code_postal": "34252"
+    },
+    {
+        "ville": "Ain Aicha Ait Saadelli",
+        "code_postal": "54153"
+    },
+    {
+        "ville": "Ain Ariss",
+        "code_postal": "14026"
+    },
+    {
+        "ville": "Ain Attig",
+        "code_postal": "12013"
+    },
+    {
+        "ville": "Ain Barda",
+        "code_postal": "34122"
+    },
+    {
+        "ville": "Ain Beida",
+        "code_postal": "91022"
+    },
+    {
+        "ville": "Ain Benabbou",
+        "code_postal": "32372"
+    },
+    {
+        "ville": "Ain Bni Mathar",
+        "code_postal": "64100"
+    },
+    {
+        "ville": "Ain Boumassay",
+        "code_postal": "35222"
+    },
+    {
+        "ville": "Ain Cheggag",
+        "code_postal": "31052"
+    },
+    {
+        "ville": "Ain Chkef",
+        "code_postal": "36122"
+    },
+    {
+        "ville": "Ain Chouater",
+        "code_postal": "61052"
+    },
+    {
+        "ville": "Ain Deffali",
+        "code_postal": "16052"
+    },
+    {
+        "ville": "Ain Dorij",
+        "code_postal": "16222"
+    },
+    {
+        "ville": "Ain Echchair",
+        "code_postal": "61222"
+    },
+    {
+        "ville": "Ain El Aouda",
+        "code_postal": "12100"
+    },
+    {
+        "ville": "Ain El Fendel",
+        "code_postal": "35322"
+    },
+    {
+        "ville": "Ain El Guenfouda",
+        "code_postal": "64152"
+    },
+    {
+        "ville": "Ain El Hamra",
+        "code_postal": "35074"
+    },
+    {
+        "ville": "Ain El Orma",
+        "code_postal": "50022"
+    },
+    {
+        "ville": "Ain Erreggada",
+        "code_postal": "63200"
+    },
+    {
+        "ville": "Ain Es Sfa",
+        "code_postal": "60005"
+    },
+    {
+        "ville": "Ain Harrouda",
+        "code_postal": "28630"
+    },
+    {
+        "ville": "Ain Igli",
+        "code_postal": "43072"
+    },
+    {
+        "ville": "Ain Jemaa",
+        "code_postal": "50052"
+    },
+    {
+        "ville": "Ain Johra",
+        "code_postal": "15422"
+    },
+    {
+        "ville": "Ain Kansara",
+        "code_postal": "36222"
+    },
+    {
+        "ville": "Ain Kerma",
+        "code_postal": "50023"
+    },
+    {
+        "ville": "Ain Kicher",
+        "code_postal": "25472"
+    },
+    {
+        "ville": "Ain Legdeh",
+        "code_postal": "34222"
+    },
+    {
+        "ville": "Ain Leuh",
+        "code_postal": "53052"
+    },
+    {
+        "ville": "Ain Maatouf",
+        "code_postal": "34272"
+    },
+    {
+        "ville": "Ain Mediouna",
+        "code_postal": "34003"
+    },
+    {
+        "ville": "Ain Nzarh",
+        "code_postal": "26022"
+    },
+    {
+        "ville": "Ain Sbit",
+        "code_postal": "15152"
+    },
+    {
+        "ville": "Ain Taoujdate",
+        "code_postal": "51100"
+    },
+    {
+        "ville": "Ain Zelten",
+        "code_postal": "44273"
+    },
+    {
+        "ville": "Ain Zorah",
+        "code_postal": "62252"
+    },
+    {
+        "ville": "Aioun Sename",
+        "code_postal": "31022"
+    },
+    {
+        "ville": "Ait Aadel",
+        "code_postal": "42073"
+    },
+    {
+        "ville": "Ait Abdallah",
+        "code_postal": "83252"
+    },
+    {
+        "ville": "Ait Abdallah Boukhamouj",
+        "code_postal": "33122"
+    },
+    {
+        "ville": "Ait Ahmad Ou Haddou",
+        "code_postal": "61122"
+    },
+    {
+        "ville": "Ait Aissa Addi",
+        "code_postal": "50024"
+    },
+    {
+        "ville": "Ait Amira",
+        "code_postal": "87052"
+    },
+    {
+        "ville": "Ait Ammar",
+        "code_postal": "25422"
+    },
+    {
+        "ville": "Ait Attab",
+        "code_postal": "22102"
+    },
+    {
+        "ville": "Ait Baha",
+        "code_postal": "87100"
+    },
+    {
+        "ville": "Ait Bazza",
+        "code_postal": "33172"
+    },
+    {
+        "ville": "Ait Belkacem",
+        "code_postal": "15425"
+    },
+    {
+        "ville": "Ait Ben Haddou",
+        "code_postal": "45122"
+    },
+    {
+        "ville": "Ait Blal",
+        "code_postal": "22322"
+    },
+    {
+        "ville": "Ait Boufoulne",
+        "code_postal": "81072"
+    },
+    {
+        "ville": "Ait Brahim Ou Youssef",
+        "code_postal": "85172"
+    },
+    {
+        "ville": "Ait Daoud",
+        "code_postal": "44060"
+    },
+    {
+        "ville": "Ait El Farsi",
+        "code_postal": "45672"
+    },
+    {
+        "ville": "Ait El Mane",
+        "code_postal": "33173"
+    },
+    {
+        "ville": "Ait Erkha",
+        "code_postal": "85052"
+    },
+    {
+        "ville": "Ait Faska",
+        "code_postal": "42082"
+    },
+    {
+        "ville": "Ait Hadi",
+        "code_postal": "41102"
+    },
+    {
+        "ville": "Ait Hamad Ribaa",
+        "code_postal": "53022"
+    },
+    {
+        "ville": "Ait Hammou",
+        "code_postal": "43175"
+    },
+    {
+        "ville": "Ait Hamza",
+        "code_postal": "33052"
+    },
+    {
+        "ville": "Ait Hani",
+        "code_postal": "52122"
+    },
+    {
+        "ville": "Ait Hnini",
+        "code_postal": "54222"
+    },
+    {
+        "ville": "Ait Iaaza",
+        "code_postal": "83200"
+    },
+    {
+        "ville": "Ait Ichou",
+        "code_postal": "15124"
+    },
+    {
+        "ville": "Ait Igas",
+        "code_postal": "83222"
+    },
+    {
+        "ville": "Ait Ishak",
+        "code_postal": "54103"
+    },
+    {
+        "ville": "Ait Issafen",
+        "code_postal": "85133"
+    },
+    {
+        "ville": "Ait Kamra",
+        "code_postal": "32022"
+    },
+    {
+        "ville": "Ait Melloul",
+        "code_postal": "86150"
+    },
+    {
+        "ville": "Ait Mhamed",
+        "code_postal": "22152"
+    },
+    {
+        "ville": "Ait Othman",
+        "code_postal": "52022"
+    },
+    {
+        "ville": "Ait Ouabelli",
+        "code_postal": "84072"
+    },
+    {
+        "ville": "Ait Ouadrim",
+        "code_postal": "87132"
+    },
+    {
+        "ville": "Ait Ouallal",
+        "code_postal": "47723"
+    },
+    {
+        "ville": "Ait Ouarda",
+        "code_postal": "22072"
+    },
+    {
+        "ville": "Ait Oufella",
+        "code_postal": "54272"
+    },
+    {
+        "ville": "Ait Oumghar",
+        "code_postal": "54372"
+    },
+    {
+        "ville": "Ait Ourir",
+        "code_postal": "42050"
+    },
+    {
+        "ville": "Ait Rahhou Mjatt",
+        "code_postal": "50026"
+    },
+    {
+        "ville": "Ait Ridi",
+        "code_postal": "45222"
+    },
+    {
+        "ville": "Ait Saoun",
+        "code_postal": "47072"
+    },
+    {
+        "ville": "Ait Sebaa",
+        "code_postal": "31272"
+    },
+    {
+        "ville": "Ait Sedrate Jbel",
+        "code_postal": "45172"
+    },
+    {
+        "ville": "Ait Sedrate Jbel El Oulia",
+        "code_postal": "45174"
+    },
+    {
+        "ville": "Ait Sedrate Sahl Charkia",
+        "code_postal": "45223"
+    },
+    {
+        "ville": "Ait Sidi Daoud",
+        "code_postal": "42083"
+    },
+    {
+        "ville": "Ait Taguella",
+        "code_postal": "22572"
+    },
+    {
+        "ville": "Ait Tamejoute",
+        "code_postal": "22522"
+    },
+    {
+        "ville": "Ait Tamlil",
+        "code_postal": "22323"
+    },
+    {
+        "ville": "Ait Yaazem",
+        "code_postal": "51025"
+    },
+    {
+        "ville": "Ait Yahia Ou Alla",
+        "code_postal": "53122"
+    },
+    {
+        "ville": "Ait Youl",
+        "code_postal": "45173"
+    },
+    {
+        "ville": "Ait Youssef Ou Ali",
+        "code_postal": "32003"
+    },
+    {
+        "ville": "Ajdir",
+        "code_postal": "35052"
+    },
+    {
+        "ville": "Ajermounas",
+        "code_postal": "62422"
+    },
+    {
+        "ville": "Akerma",
+        "code_postal": "43222"
+    },
+    {
+        "ville": "Akermoud",
+        "code_postal": "44126"
+    },
+    {
+        "ville": "Akhfennir",
+        "code_postal": "70073"
+    },
+    {
+        "ville": "Akka",
+        "code_postal": "84050"
+    },
+    {
+        "ville": "Akka Ighane",
+        "code_postal": "84022"
+    },
+    {
+        "ville": "Aklim",
+        "code_postal": "63250"
+    },
+    {
+        "ville": "Aknoul",
+        "code_postal": "35050"
+    },
+    {
+        "ville": "Aksri",
+        "code_postal": "80322"
+    },
+    {
+        "ville": "Al Aaroui",
+        "code_postal": "62550"
+    },
+    {
+        "ville": "Al Aouamra",
+        "code_postal": "92052"
+    },
+    {
+        "ville": "Al Hoceima",
+        "code_postal": "32000"
+    },
+    {
+        "ville": "Al Mahbass",
+        "code_postal": "81036"
+    },
+    {
+        "ville": "Allal Tazi",
+        "code_postal": "14052"
+    },
+    {
+        "ville": "Allougoum",
+        "code_postal": "84172"
+    },
+    {
+        "ville": "Almis Guigou",
+        "code_postal": "33053"
+    },
+    {
+        "ville": "Almis Marmoucha",
+        "code_postal": "33174"
+    },
+    {
+        "ville": "Alnif",
+        "code_postal": "52452"
+    },
+    {
+        "ville": "Amelago",
+        "code_postal": "52272"
+    },
+    {
+        "ville": "Amerzgane",
+        "code_postal": "45102"
+    },
+    {
+        "ville": "Amizmiz",
+        "code_postal": "42103"
+    },
+    {
+        "ville": "Amouguer",
+        "code_postal": "52422"
+    },
+    {
+        "ville": "Amskroud",
+        "code_postal": "80302"
+    },
+    {
+        "ville": "Amsra",
+        "code_postal": "81122"
+    },
+    {
+        "ville": "Amtar",
+        "code_postal": "91173"
+    },
+    {
+        "ville": "Anameur",
+        "code_postal": "85472"
+    },
+    {
+        "ville": "Anemzi",
+        "code_postal": "54524"
+    },
+    {
+        "ville": "Anergui",
+        "code_postal": "22622"
+    },
+    {
+        "ville": "Anezi",
+        "code_postal": "85103"
+    },
+    {
+        "ville": "Anfeg",
+        "code_postal": "85272"
+    },
+    {
+        "ville": "Anmiter Ounilla",
+        "code_postal": "45273"
+    },
+    {
+        "ville": "Anoual Bouchaouen",
+        "code_postal": "61272"
+    },
+    {
+        "ville": "Anougal",
+        "code_postal": "42124"
+    },
+    {
+        "ville": "Anzal",
+        "code_postal": "45772"
+    },
+    {
+        "ville": "Anzou",
+        "code_postal": "22324"
+    },
+    {
+        "ville": "Aoufous",
+        "code_postal": "52053"
+    },
+    {
+        "ville": "Aouinate Ait Oussa",
+        "code_postal": "81022"
+    },
+    {
+        "ville": "Aouinate Tourkoz",
+        "code_postal": "81023"
+    },
+    {
+        "ville": "Aoulouz",
+        "code_postal": "83052"
+    },
+    {
+        "ville": "Aoura",
+        "code_postal": "35223"
+    },
+    {
+        "ville": "Aourir",
+        "code_postal": "80750"
+    },
+    {
+        "ville": "Aousserd",
+        "code_postal": "74002"
+    },
+    {
+        "ville": "Arba Ait Ahmed",
+        "code_postal": "85123"
+    },
+    {
+        "ville": "Arba Oulad Bou Ali",
+        "code_postal": "26272"
+    },
+    {
+        "ville": "Arbaa Ait Abdellah",
+        "code_postal": "85522"
+    },
+    {
+        "ville": "Arbaa Aounate",
+        "code_postal": "24052"
+    },
+    {
+        "ville": "Arbaa Assads",
+        "code_postal": "83422"
+    },
+    {
+        "ville": "Arbaa Assais",
+        "code_postal": "83522"
+    },
+    {
+        "ville": "Arbaa Ayacha",
+        "code_postal": "92022"
+    },
+    {
+        "ville": "Arbaa Beni Ftah",
+        "code_postal": "35002"
+    },
+    {
+        "ville": "Arbaa Chtouka",
+        "code_postal": "24172"
+    },
+    {
+        "ville": "Arbaa Douirane",
+        "code_postal": "41202"
+    },
+    {
+        "ville": "Arbaa Ida Ou Trouma",
+        "code_postal": "44222"
+    },
+    {
+        "ville": "Arbaa Ida Ougourd",
+        "code_postal": "44005"
+    },
+    {
+        "ville": "Arbaa Khattazakarne",
+        "code_postal": "46022"
+    },
+    {
+        "ville": "Arbaa Maadna",
+        "code_postal": "25372"
+    },
+    {
+        "ville": "Arbaa Ou Aoula",
+        "code_postal": "22573"
+    },
+    {
+        "ville": "Arbaa Ouakabli",
+        "code_postal": "22523"
+    },
+    {
+        "ville": "Arbaa Ras Mouka",
+        "code_postal": "85152"
+    },
+    {
+        "ville": "Arbaa Sahel",
+        "code_postal": "85002"
+    },
+    {
+        "ville": "Arbaa Shoul",
+        "code_postal": "11022"
+    },
+    {
+        "ville": "Arbaa Taourirt",
+        "code_postal": "32004"
+    },
+    {
+        "ville": "Arbaa Tirhedouine",
+        "code_postal": "42074"
+    },
+    {
+        "ville": "Arbaoua",
+        "code_postal": "14102"
+    },
+    {
+        "ville": "Arfoud",
+        "code_postal": "52200"
+    },
+    {
+        "ville": "Argana",
+        "code_postal": "83102"
+    },
+    {
+        "ville": "Arhbal",
+        "code_postal": "63072"
+    },
+    {
+        "ville": "Arhbala",
+        "code_postal": "23052"
+    },
+    {
+        "ville": "Arhbalou Akorare",
+        "code_postal": "31023"
+    },
+    {
+        "ville": "Arhbalou Nkerdouss",
+        "code_postal": "52622"
+    },
+    {
+        "ville": "Asdif",
+        "code_postal": "45773"
+    },
+    {
+        "ville": "Asifane",
+        "code_postal": "91023"
+    },
+    {
+        "ville": "Asjen",
+        "code_postal": "91024"
+    },
+    {
+        "ville": "Askaoun",
+        "code_postal": "83152"
+    },
+    {
+        "ville": "Asmaten",
+        "code_postal": "93015"
+    },
+    {
+        "ville": "Asni",
+        "code_postal": "42152"
+    },
+    {
+        "ville": "Asrir Azouafit",
+        "code_postal": "81026"
+    },
+    {
+        "ville": "Asrir Oued Ferkla",
+        "code_postal": "52002"
+    },
+    {
+        "ville": "Assa",
+        "code_postal": "81010"
+    },
+    {
+        "ville": "Assais",
+        "code_postal": "44083"
+    },
+    {
+        "ville": "Assaka",
+        "code_postal": "85035"
+    },
+    {
+        "ville": "Assaki",
+        "code_postal": "83523"
+    },
+    {
+        "ville": "Assebbab",
+        "code_postal": "35124"
+    },
+    {
+        "ville": "Asserratou",
+        "code_postal": "41072"
+    },
+    {
+        "ville": "Assif El Mal",
+        "code_postal": "42123"
+    },
+    {
+        "ville": "Assilah",
+        "code_postal": "90050"
+    },
+    {
+        "ville": "Assoul",
+        "code_postal": "52102"
+    },
+    {
+        "ville": "Atiamim",
+        "code_postal": "46072"
+    },
+    {
+        "ville": "Atouabet",
+        "code_postal": "46172"
+    },
+    {
+        "ville": "Azemmour",
+        "code_postal": "24100"
+    },
+    {
+        "ville": "Azghar",
+        "code_postal": "14224"
+    },
+    {
+        "ville": "Azgour",
+        "code_postal": "42122"
+    },
+    {
+        "ville": "Aziar",
+        "code_postal": "80325"
+    },
+    {
+        "ville": "Azilal",
+        "code_postal": "22000"
+    },
+    {
+        "ville": "Azla",
+        "code_postal": "93022"
+    },
+    {
+        "ville": "Azrar",
+        "code_postal": "83225"
+    },
+    {
+        "ville": "Azrou",
+        "code_postal": "53100"
+    },
+    {
+        "ville": "Azzaba",
+        "code_postal": "31002"
+    },
+    {
+        "ville": "Bab Berret",
+        "code_postal": "91052"
+    },
+    {
+        "ville": "Bab Bouidir",
+        "code_postal": "35022"
+    },
+    {
+        "ville": "Bab El Mrouj",
+        "code_postal": "35003"
+    },
+    {
+        "ville": "Bab Marzouka",
+        "code_postal": "35004"
+    },
+    {
+        "ville": "Bab Ouandar",
+        "code_postal": "34022"
+    },
+    {
+        "ville": "Bab Taza",
+        "code_postal": "91002"
+    },
+    {
+        "ville": "Bahraouiyne Tanja",
+        "code_postal": "94022"
+    },
+    {
+        "ville": "Bahriyne El Aouama",
+        "code_postal": "94023"
+    },
+    {
+        "ville": "Bechiyine",
+        "code_postal": "35023"
+    },
+    {
+        "ville": "Beddouza",
+        "code_postal": "46023"
+    },
+    {
+        "ville": "Bejaad",
+        "code_postal": "25060"
+    },
+    {
+        "ville": "Ben Abid",
+        "code_postal": "27222"
+    },
+    {
+        "ville": "Ben Ahmed",
+        "code_postal": "26050"
+    },
+    {
+        "ville": "Ben Guerir",
+        "code_postal": "43150"
+    },
+    {
+        "ville": "Ben Mansour",
+        "code_postal": "14022"
+    },
+    {
+        "ville": "Ben Smim",
+        "code_postal": "53123"
+    },
+    {
+        "ville": "Ben Tib",
+        "code_postal": "62102"
+    },
+    {
+        "ville": "Benguerir Base Militaire",
+        "code_postal": "43153"
+    },
+    {
+        "ville": "Beni Ali",
+        "code_postal": "35024"
+    },
+    {
+        "ville": "Beni Ammar",
+        "code_postal": "50372"
+    },
+    {
+        "ville": "Beni Bou Ifrour",
+        "code_postal": "62672"
+    },
+    {
+        "ville": "Beni Bouzra",
+        "code_postal": "91034"
+    },
+    {
+        "ville": "Beni Gmil Mestassa",
+        "code_postal": "32122"
+    },
+    {
+        "ville": "Beni Lennt",
+        "code_postal": "35005"
+    },
+    {
+        "ville": "Beni Mgara",
+        "code_postal": "35272"
+    },
+    {
+        "ville": "Beni Ounjil Tafraoute",
+        "code_postal": "34172"
+    },
+    {
+        "ville": "Beni Rzen",
+        "code_postal": "91025"
+    },
+    {
+        "ville": "Beni Selmane",
+        "code_postal": "34035"
+    },
+    {
+        "ville": "Beni Tajjite",
+        "code_postal": "61102"
+    },
+    {
+        "ville": "Beni Yakhlef",
+        "code_postal": "28815"
+    },
+    {
+        "ville": "Beni Yder",
+        "code_postal": "93023"
+    },
+    {
+        "ville": "Bennabet",
+        "code_postal": "13022"
+    },
+    {
+        "ville": "Benslimane",
+        "code_postal": "13000"
+    },
+    {
+        "ville": "Berkane",
+        "code_postal": "63300"
+    },
+    {
+        "ville": "Berkine",
+        "code_postal": "35102"
+    },
+    {
+        "ville": "Berrechid",
+        "code_postal": "26100"
+    },
+    {
+        "ville": "Bghaghza",
+        "code_postal": "90072"
+    },
+    {
+        "ville": "Bhalil",
+        "code_postal": "31100"
+    },
+    {
+        "ville": "Bine El Ouidane",
+        "code_postal": "22202"
+    },
+    {
+        "ville": "Biougra",
+        "code_postal": "87200"
+    },
+    {
+        "ville": "Bir Mezoui",
+        "code_postal": "25373"
+    },
+    {
+        "ville": "Bir Taleb",
+        "code_postal": "16022"
+    },
+    {
+        "ville": "Bir Tamtam",
+        "code_postal": "31152"
+    },
+    {
+        "ville": "Bittit",
+        "code_postal": "51123"
+    },
+    {
+        "ville": "Bizdad",
+        "code_postal": "44252"
+    },
+    {
+        "ville": "Bleida",
+        "code_postal": "47926"
+    },
+    {
+        "ville": "Bni Abdallah",
+        "code_postal": "32172"
+    },
+    {
+        "ville": "Bni Ahmed",
+        "code_postal": "91102"
+    },
+    {
+        "ville": "Bni Ahmed Gharbia",
+        "code_postal": "91123"
+    },
+    {
+        "ville": "Bni Ammart",
+        "code_postal": "32352"
+    },
+    {
+        "ville": "Bni Ansar",
+        "code_postal": "62050"
+    },
+    {
+        "ville": "Bni Ayat",
+        "code_postal": "22652"
+    },
+    {
+        "ville": "Bni Bchir",
+        "code_postal": "32374"
+    },
+    {
+        "ville": "Bni Bouayach",
+        "code_postal": "32050"
+    },
+    {
+        "ville": "Bni Boufrah",
+        "code_postal": "32102"
+    },
+    {
+        "ville": "Bni Bounsar",
+        "code_postal": "32373"
+    },
+    {
+        "ville": "Bni Drar",
+        "code_postal": "60350"
+    },
+    {
+        "ville": "Bni Hadifa",
+        "code_postal": "32152"
+    },
+    {
+        "ville": "Bni Hassane",
+        "code_postal": "22372"
+    },
+    {
+        "ville": "Bni Karrich Fouki",
+        "code_postal": "93052"
+    },
+    {
+        "ville": "Bni Khloug",
+        "code_postal": "26152"
+    },
+    {
+        "ville": "Bni Korra",
+        "code_postal": "34005"
+    },
+    {
+        "ville": "Bni Mhammed",
+        "code_postal": "52472"
+    },
+    {
+        "ville": "Bni Oukil",
+        "code_postal": "23005"
+    },
+    {
+        "ville": "Bni Oulid",
+        "code_postal": "34004"
+    },
+    {
+        "ville": "Bni Quolla",
+        "code_postal": "16224"
+    },
+    {
+        "ville": "Bni Sidel Louta",
+        "code_postal": "62872"
+    },
+    {
+        "ville": "Bni Smih",
+        "code_postal": "91172"
+    },
+    {
+        "ville": "Bni Smir",
+        "code_postal": "25374"
+    },
+    {
+        "ville": "Bni Zoli",
+        "code_postal": "47922"
+    },
+    {
+        "ville": "Bou Azmou",
+        "code_postal": "52433"
+    },
+    {
+        "ville": "Bouaboute",
+        "code_postal": "41073"
+    },
+    {
+        "ville": "Bouanane",
+        "code_postal": "61152"
+    },
+    {
+        "ville": "Bouantar",
+        "code_postal": "22574"
+    },
+    {
+        "ville": "Bouarfa",
+        "code_postal": "61200"
+    },
+    {
+        "ville": "Bouarg",
+        "code_postal": "62023"
+    },
+    {
+        "ville": "Bouarous",
+        "code_postal": "34012"
+    },
+    {
+        "ville": "Bouayache",
+        "code_postal": "54352"
+    },
+    {
+        "ville": "Bouazzer",
+        "code_postal": "45774"
+    },
+    {
+        "ville": "Boucedra",
+        "code_postal": "24122"
+    },
+    {
+        "ville": "Bouchabel",
+        "code_postal": "34072"
+    },
+    {
+        "ville": "Bouchfaa",
+        "code_postal": "35273"
+    },
+    {
+        "ville": "Bouderbala",
+        "code_postal": "51026"
+    },
+    {
+        "ville": "Boudinar",
+        "code_postal": "62152"
+    },
+    {
+        "ville": "Boudnib",
+        "code_postal": "52150"
+    },
+    {
+        "ville": "Boufakrane",
+        "code_postal": "50300"
+    },
+    {
+        "ville": "Bouhlou",
+        "code_postal": "35274"
+    },
+    {
+        "ville": "Bouhouda",
+        "code_postal": "34006"
+    },
+    {
+        "ville": "Bouizakarne",
+        "code_postal": "81050"
+    },
+    {
+        "ville": "Boujdour",
+        "code_postal": "71000"
+    },
+    {
+        "ville": "Boujniba",
+        "code_postal": "25100"
+    },
+    {
+        "ville": "Boukchmir",
+        "code_postal": "15122"
+    },
+    {
+        "ville": "Boukhrisse",
+        "code_postal": "25072"
+    },
+    {
+        "ville": "Bouknadel",
+        "code_postal": "11052"
+    },
+    {
+        "ville": "Boulanouar",
+        "code_postal": "25152"
+    },
+    {
+        "ville": "Boulaouane",
+        "code_postal": "41222"
+    },
+    {
+        "ville": "Boulemane",
+        "code_postal": "33000"
+    },
+    {
+        "ville": "Boumalne Dades",
+        "code_postal": "45150"
+    },
+    {
+        "ville": "Boumeriem",
+        "code_postal": "61273"
+    },
+    {
+        "ville": "Boumia",
+        "code_postal": "54154"
+    },
+    {
+        "ville": "Boured",
+        "code_postal": "35053"
+    },
+    {
+        "ville": "Bouskoura",
+        "code_postal": "27182"
+    },
+    {
+        "ville": "Boutfarda",
+        "code_postal": "23072"
+    },
+    {
+        "ville": "Boutrouch",
+        "code_postal": "85275"
+    },
+    {
+        "ville": "Bouya Omar",
+        "code_postal": "43122"
+    },
+    {
+        "ville": "Bouzemlane",
+        "code_postal": "35202"
+    },
+    {
+        "ville": "Bouzeroual",
+        "code_postal": "47925"
+    },
+    {
+        "ville": "Bouzerz",
+        "code_postal": "85044"
+    },
+    {
+        "ville": "Bouznika",
+        "code_postal": "13100"
+    },
+    {
+        "ville": "Bridia",
+        "code_postal": "50046"
+    },
+    {
+        "ville": "Brikcha",
+        "code_postal": "91026"
+    },
+    {
+        "ville": "Bzou",
+        "code_postal": "22250"
+    },
+    {
+        "ville": "Béni Mellal",
+        "code_postal": "23000"
+    },
+    {
+        "ville": "Casa Aeroport Mohamed V",
+        "code_postal": "29002"
+    },
+    {
+        "ville": "Casa Lahraouyine",
+        "code_postal": "29004"
+    },
+    {
+        "ville": "Casablanca",
+        "code_postal": "20000"
+    },
+    {
+        "ville": "Casablanca Aeroport Mohamed V Terminal 2",
+        "code_postal": "29003"
+    },
+    {
+        "ville": "Chakrane",
+        "code_postal": "32023"
+    },
+    {
+        "ville": "Chbanate",
+        "code_postal": "16033"
+    },
+    {
+        "ville": "Chefchaouen",
+        "code_postal": "91000"
+    },
+    {
+        "ville": "Chemmaia",
+        "code_postal": "46053"
+    },
+    {
+        "ville": "Chichaoua",
+        "code_postal": "41000"
+    },
+    {
+        "ville": "Chorfa Mdarhra",
+        "code_postal": "52023"
+    },
+    {
+        "ville": "Chouafaa",
+        "code_postal": "14325"
+    },
+    {
+        "ville": "Chouiter",
+        "code_postal": "40023"
+    },
+    {
+        "ville": "Chtaiba",
+        "code_postal": "43073"
+    },
+    {
+        "ville": "Dakhla",
+        "code_postal": "73000"
+    },
+    {
+        "ville": "Daoura",
+        "code_postal": "70072"
+    },
+    {
+        "ville": "Dar Bahbaz",
+        "code_postal": "83322"
+    },
+    {
+        "ville": "Dar Bel Amri",
+        "code_postal": "14222"
+    },
+    {
+        "ville": "Dar Ben Saddouk",
+        "code_postal": "93024"
+    },
+    {
+        "ville": "Dar Bouazza",
+        "code_postal": "27223"
+    },
+    {
+        "ville": "Dar Chaffai",
+        "code_postal": "26172"
+    },
+    {
+        "ville": "Dar Chaoui",
+        "code_postal": "90052"
+    },
+    {
+        "ville": "Dar El Hamra",
+        "code_postal": "31026"
+    },
+    {
+        "ville": "Dar Gueddari",
+        "code_postal": "16010"
+    },
+    {
+        "ville": "Dar Kebdani",
+        "code_postal": "62202"
+    },
+    {
+        "ville": "Dar Laaslouji",
+        "code_postal": "16026"
+    },
+    {
+        "ville": "Dar Ould Zidouh",
+        "code_postal": "23102"
+    },
+    {
+        "ville": "Dar Si Aissa",
+        "code_postal": "46026"
+    },
+    {
+        "ville": "Dayat Aoua",
+        "code_postal": "53023"
+    },
+    {
+        "ville": "Dcheira Tafoudart",
+        "code_postal": "70023"
+    },
+    {
+        "ville": "Debdou",
+        "code_postal": "65400"
+    },
+    {
+        "ville": "Dechra",
+        "code_postal": "43074"
+    },
+    {
+        "ville": "Demnate",
+        "code_postal": "22300"
+    },
+    {
+        "ville": "Derdera",
+        "code_postal": "91042"
+    },
+    {
+        "ville": "Derkoul",
+        "code_postal": "91032"
+    },
+    {
+        "ville": "Deroua Oulad Ziane",
+        "code_postal": "26202"
+    },
+    {
+        "ville": "Douar Ait Ali",
+        "code_postal": "23376"
+    },
+    {
+        "ville": "Douar Ouled Naceur",
+        "code_postal": "26573"
+    },
+    {
+        "ville": "Douar Site",
+        "code_postal": "47725"
+    },
+    {
+        "ville": "Douar Sour",
+        "code_postal": "45272"
+    },
+    {
+        "ville": "Douira",
+        "code_postal": "52072"
+    },
+    {
+        "ville": "Driouch",
+        "code_postal": "62253"
+    },
+    {
+        "ville": "Dzouz",
+        "code_postal": "43123"
+    },
+    {
+        "ville": "Ejjouala",
+        "code_postal": "43472"
+    },
+    {
+        "ville": "El Aamria",
+        "code_postal": "43052"
+    },
+    {
+        "ville": "El Aderj",
+        "code_postal": "31003"
+    },
+    {
+        "ville": "El Aioune",
+        "code_postal": "65450"
+    },
+    {
+        "ville": "El Aouinet",
+        "code_postal": "64572"
+    },
+    {
+        "ville": "El Arjate",
+        "code_postal": "11023"
+    },
+    {
+        "ville": "El Bazzaza",
+        "code_postal": "23522"
+    },
+    {
+        "ville": "El Bessabssa",
+        "code_postal": "34223"
+    },
+    {
+        "ville": "El Bessara",
+        "code_postal": "60006"
+    },
+    {
+        "ville": "El Blida",
+        "code_postal": "47572"
+    },
+    {
+        "ville": "El Borch",
+        "code_postal": "94025"
+    },
+    {
+        "ville": "El Borouj",
+        "code_postal": "26250"
+    },
+    {
+        "ville": "El Faid",
+        "code_postal": "83072"
+    },
+    {
+        "ville": "El Fendeq",
+        "code_postal": "93026"
+    },
+    {
+        "ville": "El Fokra",
+        "code_postal": "25022"
+    },
+    {
+        "ville": "El Gara",
+        "code_postal": "26300"
+    },
+    {
+        "ville": "El Gouzat",
+        "code_postal": "35172"
+    },
+    {
+        "ville": "El Gueffaf",
+        "code_postal": "25202"
+    },
+    {
+        "ville": "El Haddada",
+        "code_postal": "34023"
+    },
+    {
+        "ville": "El Hadj Kaddour",
+        "code_postal": "50102"
+    },
+    {
+        "ville": "El Hagagcha",
+        "code_postal": "24223"
+    },
+    {
+        "ville": "El Hajeb",
+        "code_postal": "51000"
+    },
+    {
+        "ville": "El Hammam",
+        "code_postal": "54452"
+    },
+    {
+        "ville": "El Hammam Jbel Doum",
+        "code_postal": "15022"
+    },
+    {
+        "ville": "El Hri",
+        "code_postal": "54022"
+    },
+    {
+        "ville": "El Hydana",
+        "code_postal": "43022"
+    },
+    {
+        "ville": "El Jadida",
+        "code_postal": "24000"
+    },
+    {
+        "ville": "El Kebab",
+        "code_postal": "54203"
+    },
+    {
+        "ville": "El Kelaa Des Sraghna",
+        "code_postal": "43000"
+    },
+    {
+        "ville": "El Kensara",
+        "code_postal": "15026"
+    },
+    {
+        "ville": "El Koudia",
+        "code_postal": "83372"
+    },
+    {
+        "ville": "El Krassi",
+        "code_postal": "13024"
+    },
+    {
+        "ville": "El Krazza",
+        "code_postal": "23572"
+    },
+    {
+        "ville": "El Kreima",
+        "code_postal": "85034"
+    },
+    {
+        "ville": "El Krifate",
+        "code_postal": "23222"
+    },
+    {
+        "ville": "El Ksiba",
+        "code_postal": "23150"
+    },
+    {
+        "ville": "El Maader El Kebir",
+        "code_postal": "85022"
+    },
+    {
+        "ville": "El Mansouria",
+        "code_postal": "13072"
+    },
+    {
+        "ville": "El Mechrek",
+        "code_postal": "24373"
+    },
+    {
+        "ville": "El Melha",
+        "code_postal": "91122"
+    },
+    {
+        "ville": "El Menzeh",
+        "code_postal": "12123"
+    },
+    {
+        "ville": "El Menzel",
+        "code_postal": "31200"
+    },
+    {
+        "ville": "El Mers",
+        "code_postal": "33102"
+    },
+    {
+        "ville": "El Morhrane",
+        "code_postal": "14023"
+    },
+    {
+        "ville": "El Orjane",
+        "code_postal": "33324"
+    },
+    {
+        "ville": "El Ouatia",
+        "code_postal": "82010"
+    },
+    {
+        "ville": "Enjil",
+        "code_postal": "33002"
+    },
+    {
+        "ville": "Enjil Ait Lahcen",
+        "code_postal": "33023"
+    },
+    {
+        "ville": "Er-Rich",
+        "code_postal": "52400"
+    },
+    {
+        "ville": "Errachidia",
+        "code_postal": "52000"
+    },
+    {
+        "ville": "Es-Semara",
+        "code_postal": "72000"
+    },
+    {
+        "ville": "Esbiaat",
+        "code_postal": "46322"
+    },
+    {
+        "ville": "Essaouira",
+        "code_postal": "44000"
+    },
+    {
+        "ville": "Fam El Hisn",
+        "code_postal": "84100"
+    },
+    {
+        "ville": "Farkhana",
+        "code_postal": "62024"
+    },
+    {
+        "ville": "Fask",
+        "code_postal": "81003"
+    },
+    {
+        "ville": "Fazna",
+        "code_postal": "52372"
+    },
+    {
+        "ville": "Fechtala",
+        "code_postal": "23272"
+    },
+    {
+        "ville": "Fedalate",
+        "code_postal": "13003"
+    },
+    {
+        "ville": "Feryata",
+        "code_postal": "23672"
+    },
+    {
+        "ville": "Fezouata",
+        "code_postal": "47622"
+    },
+    {
+        "ville": "Fifi",
+        "code_postal": "91033"
+    },
+    {
+        "ville": "Figuig",
+        "code_postal": "61000"
+    },
+    {
+        "ville": "Fnideq",
+        "code_postal": "93150"
+    },
+    {
+        "ville": "Fnidq",
+        "code_postal": "93100"
+    },
+    {
+        "ville": "Foum El Anser",
+        "code_postal": "23252"
+    },
+    {
+        "ville": "Foum El Oued",
+        "code_postal": "70022"
+    },
+    {
+        "ville": "Foum Jemaa",
+        "code_postal": "22353"
+    },
+    {
+        "ville": "Foum Oudi",
+        "code_postal": "23006"
+    },
+    {
+        "ville": "Foum Zguid",
+        "code_postal": "84150"
+    },
+    {
+        "ville": "Fquih Ben Salah",
+        "code_postal": "23200"
+    },
+    {
+        "ville": "Fritissa",
+        "code_postal": "33322"
+    },
+    {
+        "ville": "Fès",
+        "code_postal": "30000"
+    },
+    {
+        "ville": "Galaz",
+        "code_postal": "34024"
+    },
+    {
+        "ville": "Ghafsai",
+        "code_postal": "34100"
+    },
+    {
+        "ville": "Ghessate",
+        "code_postal": "45022"
+    },
+    {
+        "ville": "Goulmima",
+        "code_postal": "52250"
+    },
+    {
+        "ville": "Gourrama",
+        "code_postal": "52302"
+    },
+    {
+        "ville": "Guefait",
+        "code_postal": "64573"
+    },
+    {
+        "ville": "Gueldamane",
+        "code_postal": "35025"
+    },
+    {
+        "ville": "Guelmim",
+        "code_postal": "81000"
+    },
+    {
+        "ville": "Guemassa",
+        "code_postal": "41223"
+    },
+    {
+        "ville": "Guercif",
+        "code_postal": "35100"
+    },
+    {
+        "ville": "Guernane",
+        "code_postal": "45025"
+    },
+    {
+        "ville": "Guers Tiallaline",
+        "code_postal": "52402"
+    },
+    {
+        "ville": "Guettaya",
+        "code_postal": "23372"
+    },
+    {
+        "ville": "Guisser",
+        "code_postal": "26352"
+    },
+    {
+        "ville": "Gzenaya",
+        "code_postal": "90102"
+    },
+    {
+        "ville": "Had Abadallah Rhiate",
+        "code_postal": "42051"
+    },
+    {
+        "ville": "Had Affela Irhir",
+        "code_postal": "85473"
+    },
+    {
+        "ville": "Had Ait Belfaa",
+        "code_postal": "87252"
+    },
+    {
+        "ville": "Had Ait Mimoun",
+        "code_postal": "15023"
+    },
+    {
+        "ville": "Had Ait Ouribel",
+        "code_postal": "15024"
+    },
+    {
+        "ville": "Had Bni Batao",
+        "code_postal": "25252"
+    },
+    {
+        "ville": "Had Bni Chiker",
+        "code_postal": "62302"
+    },
+    {
+        "ville": "Had Brachoua",
+        "code_postal": "15153"
+    },
+    {
+        "ville": "Had Bradia",
+        "code_postal": "23302"
+    },
+    {
+        "ville": "Had Draa",
+        "code_postal": "44003"
+    },
+    {
+        "ville": "Had Fraita",
+        "code_postal": "43124"
+    },
+    {
+        "ville": "Had Harara",
+        "code_postal": "46006"
+    },
+    {
+        "ville": "Had Igli",
+        "code_postal": "83323"
+    },
+    {
+        "ville": "Had Imaouen",
+        "code_postal": "83272"
+    },
+    {
+        "ville": "Had Imoulass",
+        "code_postal": "83023"
+    },
+    {
+        "ville": "Had Jaafra",
+        "code_postal": "43422"
+    },
+    {
+        "ville": "Had Kourt",
+        "code_postal": "16050"
+    },
+    {
+        "ville": "Had Menizla",
+        "code_postal": "83032"
+    },
+    {
+        "ville": "Had Mjatt",
+        "code_postal": "41224"
+    },
+    {
+        "ville": "Had Mnabha",
+        "code_postal": "40173"
+    },
+    {
+        "ville": "Had Mramer",
+        "code_postal": "44122"
+    },
+    {
+        "ville": "Had Msila",
+        "code_postal": "35152"
+    },
+    {
+        "ville": "Had Mzoura",
+        "code_postal": "26023"
+    },
+    {
+        "ville": "Had Oulad Boumoussa",
+        "code_postal": "23122"
+    },
+    {
+        "ville": "Had Oulad Zbair",
+        "code_postal": "35042"
+    },
+    {
+        "ville": "Had Raggada",
+        "code_postal": "85023"
+    },
+    {
+        "ville": "Had Ras El Ain",
+        "code_postal": "43202"
+    },
+    {
+        "ville": "Had Rharbia",
+        "code_postal": "90302"
+    },
+    {
+        "ville": "Had Rhdir Krouch",
+        "code_postal": "91043"
+    },
+    {
+        "ville": "Had Rhoualem",
+        "code_postal": "15172"
+    },
+    {
+        "ville": "Had Soualem",
+        "code_postal": "26402"
+    },
+    {
+        "ville": "Had Tahala",
+        "code_postal": "85452"
+    },
+    {
+        "ville": "Had Targa Ntouchka",
+        "code_postal": "87122"
+    },
+    {
+        "ville": "Had Zerkten",
+        "code_postal": "42075"
+    },
+    {
+        "ville": "Hafrat Ben Taybi",
+        "code_postal": "50383"
+    },
+    {
+        "ville": "Hajr Enhal",
+        "code_postal": "90025"
+    },
+    {
+        "ville": "Hakkama",
+        "code_postal": "94031"
+    },
+    {
+        "ville": "Hal El Marbaa",
+        "code_postal": "23223"
+    },
+    {
+        "ville": "Hallate",
+        "code_postal": "87123"
+    },
+    {
+        "ville": "Hamria",
+        "code_postal": "36123"
+    },
+    {
+        "ville": "Hannabou",
+        "code_postal": "52225"
+    },
+    {
+        "ville": "Haouzia",
+        "code_postal": "24123"
+    },
+    {
+        "ville": "Hassi Berkane",
+        "code_postal": "62902"
+    },
+    {
+        "ville": "Hassi Blal",
+        "code_postal": "64500"
+    },
+    {
+        "ville": "Hattane",
+        "code_postal": "25300"
+    },
+    {
+        "ville": "Houara Oulad Rahho",
+        "code_postal": "35043"
+    },
+    {
+        "ville": "Hssyia",
+        "code_postal": "52473"
+    },
+    {
+        "ville": "Ibdar",
+        "code_postal": "85274"
+    },
+    {
+        "ville": "Ibn Yacoub",
+        "code_postal": "84026"
+    },
+    {
+        "ville": "Ichamraren",
+        "code_postal": "41083"
+    },
+    {
+        "ville": "Ida Ou Guelloul",
+        "code_postal": "44223"
+    },
+    {
+        "ville": "Ida Ou Kazzou",
+        "code_postal": "44226"
+    },
+    {
+        "ville": "Ida Ou Moumen",
+        "code_postal": "83034"
+    },
+    {
+        "ville": "Ida Ouazza",
+        "code_postal": "44072"
+    },
+    {
+        "ville": "Idelsane",
+        "code_postal": "45522"
+    },
+    {
+        "ville": "Idmine",
+        "code_postal": "80323"
+    },
+    {
+        "ville": "Ifkirne",
+        "code_postal": "33024"
+    },
+    {
+        "ville": "Ifrane",
+        "code_postal": "53000"
+    },
+    {
+        "ville": "Ifrane Ait Assou",
+        "code_postal": "35323"
+    },
+    {
+        "ville": "Ifrane Atlas Seghir",
+        "code_postal": "81102"
+    },
+    {
+        "ville": "Ighezren",
+        "code_postal": "31372"
+    },
+    {
+        "ville": "Ighir Melloulen",
+        "code_postal": "85024"
+    },
+    {
+        "ville": "Ighrem Nougdal",
+        "code_postal": "45253"
+    },
+    {
+        "ville": "Ighrem Oulad Jerrar",
+        "code_postal": "85042"
+    },
+    {
+        "ville": "Igmir",
+        "code_postal": "22172"
+    },
+    {
+        "ville": "Igoudar",
+        "code_postal": "42402"
+    },
+    {
+        "ville": "Iguidi",
+        "code_postal": "83173"
+    },
+    {
+        "ville": "Ihaddadene",
+        "code_postal": "62673"
+    },
+    {
+        "ville": "Ikaouen",
+        "code_postal": "32322"
+    },
+    {
+        "ville": "Ikniouen",
+        "code_postal": "45302"
+    },
+    {
+        "ville": "Imadahen",
+        "code_postal": "22273"
+    },
+    {
+        "ville": "Imassine",
+        "code_postal": "45523"
+    },
+    {
+        "ville": "Imfout",
+        "code_postal": "26672"
+    },
+    {
+        "ville": "Imgdal",
+        "code_postal": "42172"
+    },
+    {
+        "ville": "Imhilen",
+        "code_postal": "87423"
+    },
+    {
+        "ville": "Imi El Had Tasguedelft",
+        "code_postal": "87124"
+    },
+    {
+        "ville": "Imi Mqourn",
+        "code_postal": "87222"
+    },
+    {
+        "ville": "Imi Nfast",
+        "code_postal": "81033"
+    },
+    {
+        "ville": "Imi Noulaouen",
+        "code_postal": "45872"
+    },
+    {
+        "ville": "Imider",
+        "code_postal": "45822"
+    },
+    {
+        "ville": "Imilchil",
+        "code_postal": "52403"
+    },
+    {
+        "ville": "Imilmaiss",
+        "code_postal": "83123"
+    },
+    {
+        "ville": "Imini",
+        "code_postal": "45123"
+    },
+    {
+        "ville": "Imintanoute",
+        "code_postal": "41050"
+    },
+    {
+        "ville": "Imouzzer Ida Ou Tanane",
+        "code_postal": "80303"
+    },
+    {
+        "ville": "Imouzzer Kandar",
+        "code_postal": "31250"
+    },
+    {
+        "ville": "Imouzzer Marmoucha",
+        "code_postal": "33152"
+    },
+    {
+        "ville": "Imrabten",
+        "code_postal": "32202"
+    },
+    {
+        "ville": "Imzouren",
+        "code_postal": "32250"
+    },
+    {
+        "ville": "Inahnahen",
+        "code_postal": "35075"
+    },
+    {
+        "ville": "Inchaden",
+        "code_postal": "87272"
+    },
+    {
+        "ville": "Iouane",
+        "code_postal": "91073"
+    },
+    {
+        "ville": "Iouzioua Ou Neine",
+        "code_postal": "83073"
+    },
+    {
+        "ville": "Irherm",
+        "code_postal": "83250"
+    },
+    {
+        "ville": "Irhil Nourhou",
+        "code_postal": "83524"
+    },
+    {
+        "ville": "Issaguen",
+        "code_postal": "32302"
+    },
+    {
+        "ville": "Issen",
+        "code_postal": "83374"
+    },
+    {
+        "ville": "Itzer",
+        "code_postal": "54252"
+    },
+    {
+        "ville": "Izemmouren",
+        "code_postal": "32024"
+    },
+    {
+        "ville": "Izerbi",
+        "code_postal": "85474"
+    },
+    {
+        "ville": "Jaidate",
+        "code_postal": "43223"
+    },
+    {
+        "ville": "Jamaat Shaim",
+        "code_postal": "46100"
+    },
+    {
+        "ville": "Jbabra",
+        "code_postal": "34073"
+    },
+    {
+        "ville": "Jbarna",
+        "code_postal": "35072"
+    },
+    {
+        "ville": "Jbel Aouama",
+        "code_postal": "54472"
+    },
+    {
+        "ville": "Jbiel",
+        "code_postal": "43473"
+    },
+    {
+        "ville": "Jbiyel",
+        "code_postal": "52476"
+    },
+    {
+        "ville": "Jdour",
+        "code_postal": "46073"
+    },
+    {
+        "ville": "Jebha",
+        "code_postal": "91153"
+    },
+    {
+        "ville": "Jemaa El Ma Bared",
+        "code_postal": "43172"
+    },
+    {
+        "ville": "Jemaa El Oued",
+        "code_postal": "93033"
+    },
+    {
+        "ville": "Jemaa Haouafate",
+        "code_postal": "16172"
+    },
+    {
+        "ville": "Jemaa Ida Oussemlal",
+        "code_postal": "85134"
+    },
+    {
+        "ville": "Jemaa Moul Leblad",
+        "code_postal": "15173"
+    },
+    {
+        "ville": "Jemaa Ntighirt",
+        "code_postal": "85252"
+    },
+    {
+        "ville": "Jemaa Oulad Aissa",
+        "code_postal": "25375"
+    },
+    {
+        "ville": "Jemaa Takouchte",
+        "code_postal": "87125"
+    },
+    {
+        "ville": "Jerada",
+        "code_postal": "64550"
+    },
+    {
+        "ville": "Jnane Bouih",
+        "code_postal": "46082"
+    },
+    {
+        "ville": "Jorf",
+        "code_postal": "52350"
+    },
+    {
+        "ville": "Jorf El Melha",
+        "code_postal": "16020"
+    },
+    {
+        "ville": "Jorf Lasfar",
+        "code_postal": "24025"
+    },
+    {
+        "ville": "Kaa Asrass",
+        "code_postal": "91035"
+    },
+    {
+        "ville": "Kaceta",
+        "code_postal": "62522"
+    },
+    {
+        "ville": "Kaf Nsour",
+        "code_postal": "54002"
+    },
+    {
+        "ville": "Kahf El Rhar",
+        "code_postal": "35044"
+    },
+    {
+        "ville": "Kalaat M'Gouna",
+        "code_postal": "45200"
+    },
+    {
+        "ville": "Kaouane",
+        "code_postal": "35275"
+    },
+    {
+        "ville": "Karia Ba Mohamed",
+        "code_postal": "34050"
+    },
+    {
+        "ville": "Karia Benaouda",
+        "code_postal": "14322"
+    },
+    {
+        "ville": "Kariat Arkmane",
+        "code_postal": "62352"
+    },
+    {
+        "ville": "Kasba Tadla",
+        "code_postal": "23350"
+    },
+    {
+        "ville": "Kasbat Sidi Abdellah Ben Mbarek",
+        "code_postal": "84073"
+    },
+    {
+        "ville": "Kasbat Troch",
+        "code_postal": "25376"
+    },
+    {
+        "ville": "Kassarat",
+        "code_postal": "35422"
+    },
+    {
+        "ville": "Kelaat Sraghna",
+        "code_postal": "43000"
+    },
+    {
+        "ville": "Kermat Ben Salem",
+        "code_postal": "50373"
+    },
+    {
+        "ville": "Kerrouchen",
+        "code_postal": "54302"
+    },
+    {
+        "ville": "Ketama",
+        "code_postal": "32323"
+    },
+    {
+        "ville": "Kettara",
+        "code_postal": "40152"
+    },
+    {
+        "ville": "Khemis Addis",
+        "code_postal": "84023"
+    },
+    {
+        "ville": "Khemis Ait Moussa",
+        "code_postal": "87133"
+    },
+    {
+        "ville": "Khemis Ait Oufka",
+        "code_postal": "85484"
+    },
+    {
+        "ville": "Khemis Ait Yaddine",
+        "code_postal": "15003"
+    },
+    {
+        "ville": "Khemis Arazane",
+        "code_postal": "83324"
+    },
+    {
+        "ville": "Khemis Bigoudine",
+        "code_postal": "83122"
+    },
+    {
+        "ville": "Khemis Bni Chagdal",
+        "code_postal": "23224"
+    },
+    {
+        "ville": "Khemis Dades",
+        "code_postal": "45352"
+    },
+    {
+        "ville": "Khemis Des Zemamra",
+        "code_postal": "24200"
+    },
+    {
+        "ville": "Khemis Gdana",
+        "code_postal": "26522"
+    },
+    {
+        "ville": "Khemis Issafen",
+        "code_postal": "84052"
+    },
+    {
+        "ville": "Khemis Ksiba",
+        "code_postal": "24072"
+    },
+    {
+        "ville": "Khemis Majden",
+        "code_postal": "22575"
+    },
+    {
+        "ville": "Khemis Meskala",
+        "code_postal": "44274"
+    },
+    {
+        "ville": "Khemis Mtouh",
+        "code_postal": "24322"
+    },
+    {
+        "ville": "Khemis Nga",
+        "code_postal": "46173"
+    },
+    {
+        "ville": "Khemis Nkheila",
+        "code_postal": "15175"
+    },
+    {
+        "ville": "Khemis Sahel",
+        "code_postal": "92102"
+    },
+    {
+        "ville": "Khemis Sidi Yahia",
+        "code_postal": "15423"
+    },
+    {
+        "ville": "Khemis Takate",
+        "code_postal": "44132"
+    },
+    {
+        "ville": "Khemis Talagjount",
+        "code_postal": "83325"
+    },
+    {
+        "ville": "Khemis Temsamane",
+        "code_postal": "62402"
+    },
+    {
+        "ville": "Kheng",
+        "code_postal": "52024"
+    },
+    {
+        "ville": "Khenichet",
+        "code_postal": "16102"
+    },
+    {
+        "ville": "Khenifra",
+        "code_postal": "54000"
+    },
+    {
+        "ville": "Khlalfa",
+        "code_postal": "34002"
+    },
+    {
+        "ville": "Khmis Ida Ou Gnidif",
+        "code_postal": "87402"
+    },
+    {
+        "ville": "Khouribga",
+        "code_postal": "25000"
+    },
+    {
+        "ville": "Khouzama",
+        "code_postal": "45775"
+    },
+    {
+        "ville": "Klaia",
+        "code_postal": "34123"
+    },
+    {
+        "ville": "Krakra",
+        "code_postal": "26273"
+    },
+    {
+        "ville": "Kridid",
+        "code_postal": "24026"
+    },
+    {
+        "ville": "Ksabi",
+        "code_postal": "33202"
+    },
+    {
+        "ville": "Ksabi Ait Lahcen",
+        "code_postal": "81005"
+    },
+    {
+        "ville": "Ksar El Kebir",
+        "code_postal": "92150"
+    },
+    {
+        "ville": "Ksar El Kébir",
+        "code_postal": "92000"
+    },
+    {
+        "ville": "Ksar Sahli",
+        "code_postal": "52172"
+    },
+    {
+        "ville": "Ksar Sghir",
+        "code_postal": "94152"
+    },
+    {
+        "ville": "Ksiba Ahl Rmel",
+        "code_postal": "83375"
+    },
+    {
+        "ville": "Kénitra",
+        "code_postal": "14000"
+    },
+    {
+        "ville": "Laajajra",
+        "code_postal": "36124"
+    },
+    {
+        "ville": "Laaouissate",
+        "code_postal": "24222"
+    },
+    {
+        "ville": "Laatmna",
+        "code_postal": "63324"
+    },
+    {
+        "ville": "Laatmna Srarhna",
+        "code_postal": "43125"
+    },
+    {
+        "ville": "Laattaouia",
+        "code_postal": "43100"
+    },
+    {
+        "ville": "Laayayta",
+        "code_postal": "23022"
+    },
+    {
+        "ville": "Labiar",
+        "code_postal": "81042"
+    },
+    {
+        "ville": "Labkhati",
+        "code_postal": "46122"
+    },
+    {
+        "ville": "Labouirat",
+        "code_postal": "81035"
+    },
+    {
+        "ville": "Lahlalma",
+        "code_postal": "23322"
+    },
+    {
+        "ville": "Lakhnafif",
+        "code_postal": "83423"
+    },
+    {
+        "ville": "Lakhoualqa",
+        "code_postal": "46074"
+    },
+    {
+        "ville": "Lakhriouia",
+        "code_postal": "84173"
+    },
+    {
+        "ville": "Lalla Aziza",
+        "code_postal": "41074"
+    },
+    {
+        "ville": "Lalla Mimouna",
+        "code_postal": "14152"
+    },
+    {
+        "ville": "Lalla Takarkouste",
+        "code_postal": "42202"
+    },
+    {
+        "ville": "Lamhadi",
+        "code_postal": "83424"
+    },
+    {
+        "ville": "Lamharra",
+        "code_postal": "43324"
+    },
+    {
+        "ville": "Lamkmmel",
+        "code_postal": "34126"
+    },
+    {
+        "ville": "Lamnakra El Haddada",
+        "code_postal": "24224"
+    },
+    {
+        "ville": "Lamrasla",
+        "code_postal": "46175"
+    },
+    {
+        "ville": "Lamsabih",
+        "code_postal": "46125"
+    },
+    {
+        "ville": "Lamzilate",
+        "code_postal": "44123"
+    },
+    {
+        "ville": "Laouina",
+        "code_postal": "85026"
+    },
+    {
+        "ville": "Laqsir",
+        "code_postal": "51124"
+    },
+    {
+        "ville": "Larache",
+        "code_postal": "92000"
+    },
+    {
+        "ville": "Lbir Jdid",
+        "code_postal": "24150"
+    },
+    {
+        "ville": "Louad Lakhdar",
+        "code_postal": "43272"
+    },
+    {
+        "ville": "Loulja",
+        "code_postal": "34074"
+    },
+    {
+        "ville": "Lqliaa",
+        "code_postal": "86356"
+    },
+    {
+        "ville": "M'Diq",
+        "code_postal": "93200"
+    },
+    {
+        "ville": "M'Ghila",
+        "code_postal": "23023"
+    },
+    {
+        "ville": "M'Rirt",
+        "code_postal": "54450"
+    },
+    {
+        "ville": "M'Saada",
+        "code_postal": "14046"
+    },
+    {
+        "ville": "M'Sied",
+        "code_postal": "82023"
+    },
+    {
+        "ville": "Maaziz",
+        "code_postal": "15053"
+    },
+    {
+        "ville": "Madagh",
+        "code_postal": "63303"
+    },
+    {
+        "ville": "Mahirija",
+        "code_postal": "35103"
+    },
+    {
+        "ville": "Majmaa Tolba",
+        "code_postal": "15032"
+    },
+    {
+        "ville": "Mansoura",
+        "code_postal": "91124"
+    },
+    {
+        "ville": "Marchouch",
+        "code_postal": "15174"
+    },
+    {
+        "ville": "Marrakech",
+        "code_postal": "40000"
+    },
+    {
+        "ville": "Martil",
+        "code_postal": "93150"
+    },
+    {
+        "ville": "Massa",
+        "code_postal": "87452"
+    },
+    {
+        "ville": "Massa Tassila",
+        "code_postal": "87473"
+    },
+    {
+        "ville": "Matmata",
+        "code_postal": "35203"
+    },
+    {
+        "ville": "Matrann",
+        "code_postal": "24073"
+    },
+    {
+        "ville": "Mayate",
+        "code_postal": "43023"
+    },
+    {
+        "ville": "Mecherah",
+        "code_postal": "92172"
+    },
+    {
+        "ville": "Mechra Bel Ksiri",
+        "code_postal": "16150"
+    },
+    {
+        "ville": "Mechra Ben Abbou",
+        "code_postal": "26673"
+    },
+    {
+        "ville": "Mechra Hoummadi",
+        "code_postal": "65472"
+    },
+    {
+        "ville": "Mechra Klila",
+        "code_postal": "62025"
+    },
+    {
+        "ville": "Mechraa El Ain",
+        "code_postal": "83024"
+    },
+    {
+        "ville": "Mediouna",
+        "code_postal": "29490"
+    },
+    {
+        "ville": "Mehdya",
+        "code_postal": "14110"
+    },
+    {
+        "ville": "Mejji",
+        "code_postal": "44124"
+    },
+    {
+        "ville": "Meknassa Acharqia",
+        "code_postal": "35006"
+    },
+    {
+        "ville": "Meknès",
+        "code_postal": "50000"
+    },
+    {
+        "ville": "Melg El Ouidane",
+        "code_postal": "65823"
+    },
+    {
+        "ville": "Mellab",
+        "code_postal": "52602"
+    },
+    {
+        "ville": "Mellila",
+        "code_postal": "13202"
+    },
+    {
+        "ville": "Melloussa",
+        "code_postal": "94053"
+    },
+    {
+        "ville": "Mengoub",
+        "code_postal": "61223"
+    },
+    {
+        "ville": "Merhraoua",
+        "code_postal": "35012"
+    },
+    {
+        "ville": "Merija",
+        "code_postal": "64122"
+    },
+    {
+        "ville": "Mers El Kheir",
+        "code_postal": "12025"
+    },
+    {
+        "ville": "Merzouga",
+        "code_postal": "52202"
+    },
+    {
+        "ville": "Meski",
+        "code_postal": "52025"
+    },
+    {
+        "ville": "Messassa",
+        "code_postal": "34224"
+    },
+    {
+        "ville": "Mesteferki",
+        "code_postal": "60025"
+    },
+    {
+        "ville": "Mesti",
+        "code_postal": "85302"
+    },
+    {
+        "ville": "Mestigmer",
+        "code_postal": "65473"
+    },
+    {
+        "ville": "Mezguitem",
+        "code_postal": "35104"
+    },
+    {
+        "ville": "Mezraoua",
+        "code_postal": "34025"
+    },
+    {
+        "ville": "Mfassis",
+        "code_postal": "25322"
+    },
+    {
+        "ville": "Mfiss",
+        "code_postal": "52222"
+    },
+    {
+        "ville": "Mgarto",
+        "code_postal": "26072"
+    },
+    {
+        "ville": "Mhaioula",
+        "code_postal": "24124"
+    },
+    {
+        "ville": "Mhajer",
+        "code_postal": "62452"
+    },
+    {
+        "ville": "Mhamid",
+        "code_postal": "47402"
+    },
+    {
+        "ville": "Mibladen",
+        "code_postal": "54373"
+    },
+    {
+        "ville": "Midar",
+        "code_postal": "62502"
+    },
+    {
+        "ville": "Midelt",
+        "code_postal": "54350"
+    },
+    {
+        "ville": "Mikkes",
+        "code_postal": "36125"
+    },
+    {
+        "ville": "Mirleft",
+        "code_postal": "85352"
+    },
+    {
+        "ville": "Missour",
+        "code_postal": "33250"
+    },
+    {
+        "ville": "Mkam Tolba",
+        "code_postal": "15424"
+    },
+    {
+        "ville": "Mkannssa",
+        "code_postal": "34075"
+    },
+    {
+        "ville": "Mnasra",
+        "code_postal": "14053"
+    },
+    {
+        "ville": "Mohammédia",
+        "code_postal": "28800"
+    },
+    {
+        "ville": "Mokrisset",
+        "code_postal": "91152"
+    },
+    {
+        "ville": "Mouarid",
+        "code_postal": "44276"
+    },
+    {
+        "ville": "Moul Bergui",
+        "code_postal": "46123"
+    },
+    {
+        "ville": "Moulaine El Oued",
+        "code_postal": "13033"
+    },
+    {
+        "ville": "Moulay Abdelkrim",
+        "code_postal": "34083"
+    },
+    {
+        "ville": "Moulay Abdellah",
+        "code_postal": "24003"
+    },
+    {
+        "ville": "Moulay Abdesslam",
+        "code_postal": "93034"
+    },
+    {
+        "ville": "Moulay Bouazza",
+        "code_postal": "54403"
+    },
+    {
+        "ville": "Moulay Bouchta",
+        "code_postal": "34033"
+    },
+    {
+        "ville": "Moulay Bouselham",
+        "code_postal": "14302"
+    },
+    {
+        "ville": "Moulay Brahim",
+        "code_postal": "42174"
+    },
+    {
+        "ville": "Moulay Driss Arhbal",
+        "code_postal": "15072"
+    },
+    {
+        "ville": "Moulay Yacoub",
+        "code_postal": "36150"
+    },
+    {
+        "ville": "Moussaoua",
+        "code_postal": "50374"
+    },
+    {
+        "ville": "Mrabtine",
+        "code_postal": "40026"
+    },
+    {
+        "ville": "Mrhassiyne",
+        "code_postal": "50375"
+    },
+    {
+        "ville": "Mrizig",
+        "code_postal": "26622"
+    },
+    {
+        "ville": "Msemrir",
+        "code_postal": "45452"
+    },
+    {
+        "ville": "Msoun",
+        "code_postal": "35026"
+    },
+    {
+        "ville": "Mssici",
+        "code_postal": "52474"
+    },
+    {
+        "ville": "Mtal",
+        "code_postal": "24372"
+    },
+    {
+        "ville": "Mtarnargha",
+        "code_postal": "31222"
+    },
+    {
+        "ville": "Mzizil Tillechte",
+        "code_postal": "52423"
+    },
+    {
+        "ville": "Mzoudia",
+        "code_postal": "41022"
+    },
+    {
+        "ville": "Nador",
+        "code_postal": "62000"
+    },
+    {
+        "ville": "Naima",
+        "code_postal": "60070"
+    },
+    {
+        "ville": "Nekkour",
+        "code_postal": "32072"
+    },
+    {
+        "ville": "Nesrate",
+        "code_postal": "47573"
+    },
+    {
+        "ville": "Nkhila",
+        "code_postal": "26722"
+    },
+    {
+        "ville": "Nkob",
+        "code_postal": "47702"
+    },
+    {
+        "ville": "Nouara",
+        "code_postal": "83223"
+    },
+    {
+        "ville": "Nouirate",
+        "code_postal": "16173"
+    },
+    {
+        "ville": "Nzala Ait Izdeg",
+        "code_postal": "52424"
+    },
+    {
+        "ville": "Nzalat El Harmel",
+        "code_postal": "40172"
+    },
+    {
+        "ville": "Nzalate Bni Ammar",
+        "code_postal": "50352"
+    },
+    {
+        "ville": "Nzalate Laadim",
+        "code_postal": "43302"
+    },
+    {
+        "ville": "Ou Mesnate",
+        "code_postal": "85475"
+    },
+    {
+        "ville": "Ouad Lbour",
+        "code_postal": "41082"
+    },
+    {
+        "ville": "Ouaklim",
+        "code_postal": "45823"
+    },
+    {
+        "ville": "Oualidia",
+        "code_postal": "24252"
+    },
+    {
+        "ville": "Ouaouizarht",
+        "code_postal": "22402"
+    },
+    {
+        "ville": "Ouaoulzemt",
+        "code_postal": "33175"
+    },
+    {
+        "ville": "Ouaoumana",
+        "code_postal": "54102"
+    },
+    {
+        "ville": "Ouaouzgane",
+        "code_postal": "91174"
+    },
+    {
+        "ville": "Ouargui",
+        "code_postal": "43273"
+    },
+    {
+        "ville": "Ouarzazate",
+        "code_postal": "45000"
+    },
+    {
+        "ville": "Ouarzazate Tarmigt",
+        "code_postal": "45006"
+    },
+    {
+        "ville": "Ouazzane",
+        "code_postal": "16000"
+    },
+    {
+        "ville": "Oued Al Jadidah",
+        "code_postal": "51172"
+    },
+    {
+        "ville": "Oued Amlil",
+        "code_postal": "35250"
+    },
+    {
+        "ville": "Oued Bers",
+        "code_postal": "26472"
+    },
+    {
+        "ville": "Oued El Heimer",
+        "code_postal": "64022"
+    },
+    {
+        "ville": "Oued El Makhazine",
+        "code_postal": "14123"
+    },
+    {
+        "ville": "Oued El Maleh",
+        "code_postal": "35423"
+    },
+    {
+        "ville": "Oued Essafa",
+        "code_postal": "87223"
+    },
+    {
+        "ville": "Oued Hassar",
+        "code_postal": "29672"
+    },
+    {
+        "ville": "Oued Jemaa",
+        "code_postal": "34225"
+    },
+    {
+        "ville": "Oued Lahjar",
+        "code_postal": "40062"
+    },
+    {
+        "ville": "Oued Lahmar",
+        "code_postal": "35424"
+    },
+    {
+        "ville": "Oued Laou",
+        "code_postal": "93250"
+    },
+    {
+        "ville": "Oued Naanaa",
+        "code_postal": "26572"
+    },
+    {
+        "ville": "Oued Rommane",
+        "code_postal": "50025"
+    },
+    {
+        "ville": "Oued Zem",
+        "code_postal": "25350"
+    },
+    {
+        "ville": "Ouezzane",
+        "code_postal": "16200"
+    },
+    {
+        "ville": "Ougmas",
+        "code_postal": "53124"
+    },
+    {
+        "ville": "Ouirgane",
+        "code_postal": "42173"
+    },
+    {
+        "ville": "Ouizeght",
+        "code_postal": "33273"
+    },
+    {
+        "ville": "Oujda",
+        "code_postal": "60000"
+    },
+    {
+        "ville": "Oujda Bni Oukil",
+        "code_postal": "60032"
+    },
+    {
+        "ville": "Oukaimeden",
+        "code_postal": "40273"
+    },
+    {
+        "ville": "Oulad Aamer",
+        "code_postal": "43076"
+    },
+    {
+        "ville": "Oulad Aamer Tizmarine",
+        "code_postal": "43174"
+    },
+    {
+        "ville": "Oulad Abbou",
+        "code_postal": "26450"
+    },
+    {
+        "ville": "Oulad Aissa",
+        "code_postal": "24022"
+    },
+    {
+        "ville": "Oulad Ali Loued",
+        "code_postal": "23323"
+    },
+    {
+        "ville": "Oulad Amghar",
+        "code_postal": "62172"
+    },
+    {
+        "ville": "Oulad Ayad",
+        "code_postal": "23400"
+    },
+    {
+        "ville": "Oulad Ayyad",
+        "code_postal": "35224"
+    },
+    {
+        "ville": "Oulad Azzouz",
+        "code_postal": "25323"
+    },
+    {
+        "ville": "Oulad Belaaguid",
+        "code_postal": "40063"
+    },
+    {
+        "ville": "Oulad Belkacem",
+        "code_postal": "26274"
+    },
+    {
+        "ville": "Oulad Ben Chaoui",
+        "code_postal": "24225"
+    },
+    {
+        "ville": "Oulad Berhil",
+        "code_postal": "83300"
+    },
+    {
+        "ville": "Oulad Boubker",
+        "code_postal": "62272"
+    },
+    {
+        "ville": "Oulad Bourahmoune",
+        "code_postal": "23573"
+    },
+    {
+        "ville": "Oulad Bourima",
+        "code_postal": "35055"
+    },
+    {
+        "ville": "Oulad Chaker",
+        "code_postal": "52073"
+    },
+    {
+        "ville": "Oulad Chrif",
+        "code_postal": "35046"
+    },
+    {
+        "ville": "Oulad Daoud",
+        "code_postal": "34273"
+    },
+    {
+        "ville": "Oulad Daoud Zkhanine",
+        "code_postal": "62922"
+    },
+    {
+        "ville": "Oulad Dlim",
+        "code_postal": "40064"
+    },
+    {
+        "ville": "Oulad Driss",
+        "code_postal": "26275"
+    },
+    {
+        "ville": "Oulad Driss Bradia",
+        "code_postal": "23324"
+    },
+    {
+        "ville": "Oulad Driss El Ghouzlane",
+        "code_postal": "47422"
+    },
+    {
+        "ville": "Oulad Ettayeb",
+        "code_postal": "30023"
+    },
+    {
+        "ville": "Oulad Fennane",
+        "code_postal": "25382"
+    },
+    {
+        "ville": "Oulad Ftata",
+        "code_postal": "25423"
+    },
+    {
+        "ville": "Oulad Gouaouch",
+        "code_postal": "25073"
+    },
+    {
+        "ville": "Oulad Hamdane",
+        "code_postal": "24323"
+    },
+    {
+        "ville": "Oulad Hammou",
+        "code_postal": "26276"
+    },
+    {
+        "ville": "Oulad Hassine",
+        "code_postal": "24023"
+    },
+    {
+        "ville": "Oulad Hassoun",
+        "code_postal": "23225"
+    },
+    {
+        "ville": "Oulad Hassoune Hamri",
+        "code_postal": "43176"
+    },
+    {
+        "ville": "Oulad Jerrar",
+        "code_postal": "85025"
+    },
+    {
+        "ville": "Oulad Mhamed",
+        "code_postal": "26073"
+    },
+    {
+        "ville": "Oulad Msabbel",
+        "code_postal": "43083"
+    },
+    {
+        "ville": "Oulad N'Jima",
+        "code_postal": "26173"
+    },
+    {
+        "ville": "Oulad Rhanem",
+        "code_postal": "24272"
+    },
+    {
+        "ville": "Oulad Said",
+        "code_postal": "26502"
+    },
+    {
+        "ville": "Oulad Said El Oued",
+        "code_postal": "23373"
+    },
+    {
+        "ville": "Oulad Salah",
+        "code_postal": "34124"
+    },
+    {
+        "ville": "Oulad Sghir",
+        "code_postal": "33272"
+    },
+    {
+        "ville": "Oulad Sidi Ali Ben Youssef",
+        "code_postal": "24324"
+    },
+    {
+        "ville": "Oulad Teima",
+        "code_postal": "83350"
+    },
+    {
+        "ville": "Oulad Yacoub",
+        "code_postal": "43024"
+    },
+    {
+        "ville": "Oulad Zarrad",
+        "code_postal": "43026"
+    },
+    {
+        "ville": "Oulad Ziane",
+        "code_postal": "26422"
+    },
+    {
+        "ville": "Ouled Abdellah",
+        "code_postal": "23226"
+    },
+    {
+        "ville": "Ouled Abdoun",
+        "code_postal": "25023"
+    },
+    {
+        "ville": "Ouled Ali",
+        "code_postal": "33302"
+    },
+    {
+        "ville": "Ouled Amrane",
+        "code_postal": "24004"
+    },
+    {
+        "ville": "Ouled Ben Hammadi",
+        "code_postal": "14225"
+    },
+    {
+        "ville": "Ouled Boughadi",
+        "code_postal": "25402"
+    },
+    {
+        "ville": "Ouled Frej",
+        "code_postal": "24302"
+    },
+    {
+        "ville": "Ouled Ghziyel",
+        "code_postal": "64123"
+    },
+    {
+        "ville": "Ouled M'Koudou",
+        "code_postal": "31202"
+    },
+    {
+        "ville": "Ouled Mbarek",
+        "code_postal": "23452"
+    },
+    {
+        "ville": "Ouled Noummeur",
+        "code_postal": "85043"
+    },
+    {
+        "ville": "Ouled Selmane",
+        "code_postal": "46035"
+    },
+    {
+        "ville": "Ouled Yaiche",
+        "code_postal": "23502"
+    },
+    {
+        "ville": "Ouled Youssef",
+        "code_postal": "23374"
+    },
+    {
+        "ville": "Ouled Zmam",
+        "code_postal": "23575"
+    },
+    {
+        "ville": "Oulja Des Chiadma",
+        "code_postal": "24173"
+    },
+    {
+        "ville": "Oulkadi",
+        "code_postal": "83273"
+    },
+    {
+        "ville": "Oulmes",
+        "code_postal": "15102"
+    },
+    {
+        "ville": "Oum El Guerdane",
+        "code_postal": "84024"
+    },
+    {
+        "ville": "Oum Rabia",
+        "code_postal": "54473"
+    },
+    {
+        "ville": "Oumazza",
+        "code_postal": "12122"
+    },
+    {
+        "ville": "Ounagha",
+        "code_postal": "44133"
+    },
+    {
+        "ville": "Ouneine",
+        "code_postal": "83472"
+    },
+    {
+        "ville": "Ounnana",
+        "code_postal": "16225"
+    },
+    {
+        "ville": "Ourtzarh",
+        "code_postal": "34044"
+    },
+    {
+        "ville": "Oussikis Ait Azza",
+        "code_postal": "45472"
+    },
+    {
+        "ville": "Outa Bouabane",
+        "code_postal": "34226"
+    },
+    {
+        "ville": "Outat El Haj",
+        "code_postal": "33300"
+    },
+    {
+        "ville": "Outerbat",
+        "code_postal": "52432"
+    },
+    {
+        "ville": "Ouzoud",
+        "code_postal": "22576"
+    },
+    {
+        "ville": "Ouzoune",
+        "code_postal": "83283"
+    },
+    {
+        "ville": "Pont Tassaoute",
+        "code_postal": "43075"
+    },
+    {
+        "ville": "Quallaline",
+        "code_postal": "34032"
+    },
+    {
+        "ville": "Rabat",
+        "code_postal": "10000"
+    },
+    {
+        "ville": "Ras El Ain",
+        "code_postal": "26552"
+    },
+    {
+        "ville": "Ras El Ain Ahmar",
+        "code_postal": "46075"
+    },
+    {
+        "ville": "Ras El Ma",
+        "code_postal": "62602"
+    },
+    {
+        "ville": "Ras El Oued",
+        "code_postal": "34232"
+    },
+    {
+        "ville": "Ras Jerri",
+        "code_postal": "51032"
+    },
+    {
+        "ville": "Ras Laksar",
+        "code_postal": "35125"
+    },
+    {
+        "ville": "Rass Oumlil",
+        "code_postal": "81034"
+    },
+    {
+        "ville": "Rchida",
+        "code_postal": "35122"
+    },
+    {
+        "ville": "Retba",
+        "code_postal": "34102"
+    },
+    {
+        "ville": "Rfala",
+        "code_postal": "22274"
+    },
+    {
+        "ville": "Rghioua",
+        "code_postal": "34026"
+    },
+    {
+        "ville": "Rhmate",
+        "code_postal": "42252"
+    },
+    {
+        "ville": "Rhnimiyne",
+        "code_postal": "26473"
+    },
+    {
+        "ville": "Rhorm El Alem",
+        "code_postal": "23673"
+    },
+    {
+        "ville": "Rhouazi",
+        "code_postal": "34076"
+    },
+    {
+        "ville": "Riah",
+        "code_postal": "26122"
+    },
+    {
+        "ville": "Ribate El Kheir",
+        "code_postal": "31350"
+    },
+    {
+        "ville": "Rima",
+        "code_postal": "26372"
+    },
+    {
+        "ville": "Rislane",
+        "code_postal": "63672"
+    },
+    {
+        "ville": "Rissana Janoubia",
+        "code_postal": "92272"
+    },
+    {
+        "ville": "Rissani",
+        "code_postal": "52450"
+    },
+    {
+        "ville": "Rommani",
+        "code_postal": "15150"
+    },
+    {
+        "ville": "Rouached",
+        "code_postal": "25522"
+    },
+    {
+        "ville": "Rouadi",
+        "code_postal": "32006"
+    },
+    {
+        "ville": "Sabaa Aiyoun",
+        "code_postal": "51150"
+    },
+    {
+        "ville": "Safi",
+        "code_postal": "46000"
+    },
+    {
+        "ville": "Sahrij",
+        "code_postal": "43252"
+    },
+    {
+        "ville": "Saidate",
+        "code_postal": "41023"
+    },
+    {
+        "ville": "Saidia",
+        "code_postal": "63600"
+    },
+    {
+        "ville": "Saka",
+        "code_postal": "35105"
+    },
+    {
+        "ville": "Salé",
+        "code_postal": "11000"
+    },
+    {
+        "ville": "Saniat Benrkik",
+        "code_postal": "24226"
+    },
+    {
+        "ville": "Sbouya",
+        "code_postal": "85203"
+    },
+    {
+        "ville": "Sebaa Rouadi",
+        "code_postal": "36104"
+    },
+    {
+        "ville": "Sebbah",
+        "code_postal": "12072"
+    },
+    {
+        "ville": "Sebt Ait Ikkou",
+        "code_postal": "15052"
+    },
+    {
+        "ville": "Sebt Ait Imour",
+        "code_postal": "40272"
+    },
+    {
+        "ville": "Sebt Ait Milk",
+        "code_postal": "87273"
+    },
+    {
+        "ville": "Sebt Assaka",
+        "code_postal": "80522"
+    },
+    {
+        "ville": "Sebt Beni Hlal",
+        "code_postal": "24352"
+    },
+    {
+        "ville": "Sebt Beni Yakhlef",
+        "code_postal": "25003"
+    },
+    {
+        "ville": "Sebt Bni Frassen",
+        "code_postal": "35013"
+    },
+    {
+        "ville": "Sebt Bni Garfet",
+        "code_postal": "92002"
+    },
+    {
+        "ville": "Sebt Bounaamane",
+        "code_postal": "85402"
+    },
+    {
+        "ville": "Sebt Brikyine",
+        "code_postal": "43173"
+    },
+    {
+        "ville": "Sebt Dechra Braksa",
+        "code_postal": "25383"
+    },
+    {
+        "ville": "Sebt El Guerdane",
+        "code_postal": "83400"
+    },
+    {
+        "ville": "Sebt Ennabour",
+        "code_postal": "85273"
+    },
+    {
+        "ville": "Sebt Gzoula",
+        "code_postal": "46150"
+    },
+    {
+        "ville": "Sebt Imghade",
+        "code_postal": "44224"
+    },
+    {
+        "ville": "Sebt Jehjouh",
+        "code_postal": "51052"
+    },
+    {
+        "ville": "Sebt Kfifate",
+        "code_postal": "83376"
+    },
+    {
+        "ville": "Sebt Korimate",
+        "code_postal": "44272"
+    },
+    {
+        "ville": "Sebt Meknafa",
+        "code_postal": "44073"
+    },
+    {
+        "ville": "Sebt Mzouda",
+        "code_postal": "41225"
+    },
+    {
+        "ville": "Sebt Ouijjane",
+        "code_postal": "85003"
+    },
+    {
+        "ville": "Sebt Oulad Friha",
+        "code_postal": "26024"
+    },
+    {
+        "ville": "Sebt Oulad Nemma",
+        "code_postal": "23550"
+    },
+    {
+        "ville": "Sebt Ounasdass",
+        "code_postal": "43025"
+    },
+    {
+        "ville": "Sebt Rmel",
+        "code_postal": "16223"
+    },
+    {
+        "ville": "Sebt Saiss",
+        "code_postal": "24422"
+    },
+    {
+        "ville": "Sebt Tafraoute",
+        "code_postal": "83025"
+    },
+    {
+        "ville": "Sebt Tataoute",
+        "code_postal": "83253"
+    },
+    {
+        "ville": "Sebt Zeniate",
+        "code_postal": "90036"
+    },
+    {
+        "ville": "Seffalate",
+        "code_postal": "52453"
+    },
+    {
+        "ville": "Sefrou",
+        "code_postal": "31000"
+    },
+    {
+        "ville": "Sefsaf",
+        "code_postal": "16174"
+    },
+    {
+        "ville": "Selouane",
+        "code_postal": "62702"
+    },
+    {
+        "ville": "Semguet",
+        "code_postal": "23375"
+    },
+    {
+        "ville": "Senada",
+        "code_postal": "32013"
+    },
+    {
+        "ville": "Settat",
+        "code_postal": "26000"
+    },
+    {
+        "ville": "Settat Bir Baouch",
+        "code_postal": "26006"
+    },
+    {
+        "ville": "Sfafaa",
+        "code_postal": "14223"
+    },
+    {
+        "ville": "Sfassif",
+        "code_postal": "15004"
+    },
+    {
+        "ville": "Sgoura",
+        "code_postal": "34034"
+    },
+    {
+        "ville": "Sidi Aayad",
+        "code_postal": "52434"
+    },
+    {
+        "ville": "Sidi Abdallah",
+        "code_postal": "43423"
+    },
+    {
+        "ville": "Sidi Abdellah El Bouchouari",
+        "code_postal": "87126"
+    },
+    {
+        "ville": "Sidi Abdellah Ou Belaid",
+        "code_postal": "85072"
+    },
+    {
+        "ville": "Sidi Abderrazak",
+        "code_postal": "15202"
+    },
+    {
+        "ville": "Sidi Abed",
+        "code_postal": "24032"
+    },
+    {
+        "ville": "Sidi Addi",
+        "code_postal": "53102"
+    },
+    {
+        "ville": "Sidi Ahmed",
+        "code_postal": "46202"
+    },
+    {
+        "ville": "Sidi Ahmed Cherif",
+        "code_postal": "16032"
+    },
+    {
+        "ville": "Sidi Ahmed El Bernoussi",
+        "code_postal": "36152"
+    },
+    {
+        "ville": "Sidi Ahmed El Khadir",
+        "code_postal": "26174"
+    },
+    {
+        "ville": "Sidi Ahmed Essayeh",
+        "code_postal": "44082"
+    },
+    {
+        "ville": "Sidi Ahmed Ou Amar",
+        "code_postal": "83382"
+    },
+    {
+        "ville": "Sidi Aissa",
+        "code_postal": "23574"
+    },
+    {
+        "ville": "Sidi Aissa Ben Slimane",
+        "code_postal": "43274"
+    },
+    {
+        "ville": "Sidi Al Kamel",
+        "code_postal": "16175"
+    },
+    {
+        "ville": "Sidi Ali",
+        "code_postal": "92023"
+    },
+    {
+        "ville": "Sidi Ali Benhamdouche",
+        "code_postal": "50376"
+    },
+    {
+        "ville": "Sidi Ali Bennacer",
+        "code_postal": "35324"
+    },
+    {
+        "ville": "Sidi Ali Bourakba",
+        "code_postal": "35372"
+    },
+    {
+        "ville": "Sidi Ali Tafraout",
+        "code_postal": "52475"
+    },
+    {
+        "ville": "Sidi Allal El Bahraoui",
+        "code_postal": "15252"
+    },
+    {
+        "ville": "Sidi Allal Lemsedder",
+        "code_postal": "15005"
+    },
+    {
+        "ville": "Sidi Ammar El Hadi",
+        "code_postal": "16324"
+    },
+    {
+        "ville": "Sidi Azzouz",
+        "code_postal": "16072"
+    },
+    {
+        "ville": "Sidi Bennour",
+        "code_postal": "24350"
+    },
+    {
+        "ville": "Sidi Bettache",
+        "code_postal": "13162"
+    },
+    {
+        "ville": "Sidi Bibi",
+        "code_postal": "87274"
+    },
+    {
+        "ville": "Sidi Borja",
+        "code_postal": "83026"
+    },
+    {
+        "ville": "Sidi Bou Othmane",
+        "code_postal": "43303"
+    },
+    {
+        "ville": "Sidi Bouabbed",
+        "code_postal": "54023"
+    },
+    {
+        "ville": "Sidi Bouabdelli",
+        "code_postal": "85422"
+    },
+    {
+        "ville": "Sidi Bouaz",
+        "code_postal": "87112"
+    },
+    {
+        "ville": "Sidi Boubker",
+        "code_postal": "43322"
+    },
+    {
+        "ville": "Sidi Boubker El Haj",
+        "code_postal": "14122"
+    },
+    {
+        "ville": "Sidi Bouhouria",
+        "code_postal": "63652"
+    },
+    {
+        "ville": "Sidi Boukhalkhal",
+        "code_postal": "15273"
+    },
+    {
+        "ville": "Sidi Boumoussa",
+        "code_postal": "83383"
+    },
+    {
+        "ville": "Sidi Bousber",
+        "code_postal": "16004"
+    },
+    {
+        "ville": "Sidi Bouzid",
+        "code_postal": "24005"
+    },
+    {
+        "ville": "Sidi Bouzineb",
+        "code_postal": "32375"
+    },
+    {
+        "ville": "Sidi Chiker",
+        "code_postal": "46076"
+    },
+    {
+        "ville": "Sidi Dahbi",
+        "code_postal": "26074"
+    },
+    {
+        "ville": "Sidi Daoud",
+        "code_postal": "36172"
+    },
+    {
+        "ville": "Sidi Driss",
+        "code_postal": "43275"
+    },
+    {
+        "ville": "Sidi El Abed",
+        "code_postal": "34082"
+    },
+    {
+        "ville": "Sidi El Aidi",
+        "code_postal": "26026"
+    },
+    {
+        "ville": "Sidi El Hattab",
+        "code_postal": "43082"
+    },
+    {
+        "ville": "Sidi El Mokhfi",
+        "code_postal": "34036"
+    },
+    {
+        "ville": "Sidi El Rhandour",
+        "code_postal": "15033"
+    },
+    {
+        "ville": "Sidi Ghanem",
+        "code_postal": "43424"
+    },
+    {
+        "ville": "Sidi Haj Mhamed",
+        "code_postal": "34133"
+    },
+    {
+        "ville": "Sidi Hajjaj",
+        "code_postal": "26600"
+    },
+    {
+        "ville": "Sidi Harazem",
+        "code_postal": "30205"
+    },
+    {
+        "ville": "Sidi Hsaine",
+        "code_postal": "83525"
+    },
+    {
+        "ville": "Sidi Hsaine Ou Ali",
+        "code_postal": "85572"
+    },
+    {
+        "ville": "Sidi Ifni",
+        "code_postal": "85200"
+    },
+    {
+        "ville": "Sidi Ishaq",
+        "code_postal": "44134"
+    },
+    {
+        "ville": "Sidi Jaber",
+        "code_postal": "23602"
+    },
+    {
+        "ville": "Sidi Kacem",
+        "code_postal": "16000"
+    },
+    {
+        "ville": "Sidi Kaouki",
+        "code_postal": "44125"
+    },
+    {
+        "ville": "Sidi Lahcen",
+        "code_postal": "65822"
+    },
+    {
+        "ville": "Sidi Lahcen El Youssi",
+        "code_postal": "31025"
+    },
+    {
+        "ville": "Sidi Mhamed Ben Lahcen",
+        "code_postal": "34233"
+    },
+    {
+        "ville": "Sidi Mhamed Ben Mbarek",
+        "code_postal": "54425"
+    },
+    {
+        "ville": "Sidi Mohamed El Ahmar",
+        "code_postal": "14323"
+    },
+    {
+        "ville": "Sidi Mokhtar",
+        "code_postal": "41152"
+    },
+    {
+        "ville": "Sidi Moussa",
+        "code_postal": "83384"
+    },
+    {
+        "ville": "Sidi Moussa Ben Ali",
+        "code_postal": "28814"
+    },
+    {
+        "ville": "Sidi Moussa Plage",
+        "code_postal": "24024"
+    },
+    {
+        "ville": "Sidi Ouaaziz",
+        "code_postal": "83334"
+    },
+    {
+        "ville": "Sidi Rahhal",
+        "code_postal": "43350"
+    },
+    {
+        "ville": "Sidi Rahhal Chaouia",
+        "code_postal": "26652"
+    },
+    {
+        "ville": "Sidi Rahhal Plage",
+        "code_postal": "26175"
+    },
+    {
+        "ville": "Sidi Rbat",
+        "code_postal": "87472"
+    },
+    {
+        "ville": "Sidi Redouane",
+        "code_postal": "16202"
+    },
+    {
+        "ville": "Sidi Said Maachou",
+        "code_postal": "26474"
+    },
+    {
+        "ville": "Sidi Slimane",
+        "code_postal": "14200"
+    },
+    {
+        "ville": "Sidi Slimane Mjatt",
+        "code_postal": "50122"
+    },
+    {
+        "ville": "Sidi Smail",
+        "code_postal": "24402"
+    },
+    {
+        "ville": "Sidi Taibi",
+        "code_postal": "14025"
+    },
+    {
+        "ville": "Sidi Tiji",
+        "code_postal": "46024"
+    },
+    {
+        "ville": "Sidi Yahia O Youssef",
+        "code_postal": "54523"
+    },
+    {
+        "ville": "Sidi Yahia Zaers",
+        "code_postal": "12152"
+    },
+    {
+        "ville": "Sidi Yahya El Gharb",
+        "code_postal": "14250"
+    },
+    {
+        "ville": "Sidi Yahya Ou Saad",
+        "code_postal": "54202"
+    },
+    {
+        "ville": "Sidi Youssef Ben Ahmed Senhaja",
+        "code_postal": "31024"
+    },
+    {
+        "ville": "Sidi Zouine",
+        "code_postal": "40202"
+    },
+    {
+        "ville": "Sidi-Kacem",
+        "code_postal": "16000"
+    },
+    {
+        "ville": "Sifa Arab Sebbah Ziz",
+        "code_postal": "52223"
+    },
+    {
+        "ville": "Skatt",
+        "code_postal": "22022"
+    },
+    {
+        "ville": "Skhirate",
+        "code_postal": "12050"
+    },
+    {
+        "ville": "Skhour Rehamna",
+        "code_postal": "43402"
+    },
+    {
+        "ville": "Skoura Ahl Al Oust",
+        "code_postal": "45502"
+    },
+    {
+        "ville": "Skoura Seghrouchen",
+        "code_postal": "33352"
+    },
+    {
+        "ville": "Smiaa",
+        "code_postal": "35325"
+    },
+    {
+        "ville": "Smimou",
+        "code_postal": "44053"
+    },
+    {
+        "ville": "Soualem Et Tirs",
+        "code_postal": "13032"
+    },
+    {
+        "ville": "Souira Kedima",
+        "code_postal": "46025"
+    },
+    {
+        "ville": "Souk El Arbaa Du Rharb",
+        "code_postal": "14300"
+    },
+    {
+        "ville": "Souk El Had Oued Ifrane",
+        "code_postal": "53103"
+    },
+    {
+        "ville": "Souk El Had Oulad Dahou",
+        "code_postal": "86622"
+    },
+    {
+        "ville": "Souk Eyr",
+        "code_postal": "46034"
+    },
+    {
+        "ville": "Souk Had Bouhsoussen",
+        "code_postal": "54402"
+    },
+    {
+        "ville": "Souk Jemaa Houderrane",
+        "code_postal": "15073"
+    },
+    {
+        "ville": "Souk Jemaa Sidi El Ayachi",
+        "code_postal": "27123"
+    },
+    {
+        "ville": "Souk Sebt Ait Rahou",
+        "code_postal": "54423"
+    },
+    {
+        "ville": "Souk Sebt Oued Beht",
+        "code_postal": "15025"
+    },
+    {
+        "ville": "Souk Sebt Oulad Mimoun",
+        "code_postal": "36126"
+    },
+    {
+        "ville": "Souk Tleta El Gharb",
+        "code_postal": "14005"
+    },
+    {
+        "ville": "Souk Tnine Ait Boukhayyou",
+        "code_postal": "54424"
+    },
+    {
+        "ville": "Souk Tnine Moghane",
+        "code_postal": "15272"
+    },
+    {
+        "ville": "Souk Tolba",
+        "code_postal": "92173"
+    },
+    {
+        "ville": "Steha",
+        "code_postal": "91003"
+    },
+    {
+        "ville": "Taakit",
+        "code_postal": "54374"
+    },
+    {
+        "ville": "Tabannt",
+        "code_postal": "22452"
+    },
+    {
+        "ville": "Tabarannt",
+        "code_postal": "32324"
+    },
+    {
+        "ville": "Taberkhachte",
+        "code_postal": "45224"
+    },
+    {
+        "ville": "Tabia",
+        "code_postal": "22373"
+    },
+    {
+        "ville": "Tabouda",
+        "code_postal": "34014"
+    },
+    {
+        "ville": "Tabourahte",
+        "code_postal": "45023"
+    },
+    {
+        "ville": "Tachreft",
+        "code_postal": "25452"
+    },
+    {
+        "ville": "Taddart",
+        "code_postal": "42076"
+    },
+    {
+        "ville": "Tadirhoust",
+        "code_postal": "52502"
+    },
+    {
+        "ville": "Tadrart",
+        "code_postal": "80326"
+    },
+    {
+        "ville": "Tafajight",
+        "code_postal": "31032"
+    },
+    {
+        "ville": "Tafedna",
+        "code_postal": "44074"
+    },
+    {
+        "ville": "Tafersite",
+        "code_postal": "62752"
+    },
+    {
+        "ville": "Tafingoult",
+        "code_postal": "83452"
+    },
+    {
+        "ville": "Taforhalt",
+        "code_postal": "63752"
+    },
+    {
+        "ville": "Tafrannt",
+        "code_postal": "34013"
+    },
+    {
+        "ville": "Tafraout",
+        "code_postal": "85450"
+    },
+    {
+        "ville": "Tafraout El Mouloud",
+        "code_postal": "85124"
+    },
+    {
+        "ville": "Tafraoute Ait Ali Oulahcen",
+        "code_postal": "33025"
+    },
+    {
+        "ville": "Tafraoute Nait Daoud",
+        "code_postal": "85423"
+    },
+    {
+        "ville": "Taftechna",
+        "code_postal": "47724"
+    },
+    {
+        "ville": "Taftecht",
+        "code_postal": "44102"
+    },
+    {
+        "ville": "Tagante",
+        "code_postal": "81052"
+    },
+    {
+        "ville": "Taghazoute",
+        "code_postal": "80022"
+    },
+    {
+        "ville": "Taghroute",
+        "code_postal": "33372"
+    },
+    {
+        "ville": "Taghzirt",
+        "code_postal": "23652"
+    },
+    {
+        "ville": "Taghzout",
+        "code_postal": "32325"
+    },
+    {
+        "ville": "Taghzoute Chorafa",
+        "code_postal": "54376"
+    },
+    {
+        "ville": "Tagounite",
+        "code_postal": "47552"
+    },
+    {
+        "ville": "Taguelft",
+        "code_postal": "22502"
+    },
+    {
+        "ville": "Tahanaoute",
+        "code_postal": "42302"
+    },
+    {
+        "ville": "Tahla",
+        "code_postal": "35300"
+    },
+    {
+        "ville": "Taineste",
+        "code_postal": "35014"
+    },
+    {
+        "ville": "Talembote",
+        "code_postal": "91044"
+    },
+    {
+        "ville": "Talilit",
+        "code_postal": "62123"
+    },
+    {
+        "ville": "Taliouine",
+        "code_postal": "83500"
+    },
+    {
+        "ville": "Talmest",
+        "code_postal": "44150"
+    },
+    {
+        "ville": "Talouet",
+        "code_postal": "45252"
+    },
+    {
+        "ville": "Talsinnt",
+        "code_postal": "61252"
+    },
+    {
+        "ville": "Talzemt",
+        "code_postal": "33176"
+    },
+    {
+        "ville": "Tamallalt",
+        "code_postal": "43450"
+    },
+    {
+        "ville": "Tamanar",
+        "code_postal": "44200"
+    },
+    {
+        "ville": "Tamayouste",
+        "code_postal": "54273"
+    },
+    {
+        "ville": "Tamazouzte",
+        "code_postal": "42272"
+    },
+    {
+        "ville": "Tamdakhte",
+        "code_postal": "45124"
+    },
+    {
+        "ville": "Tamedit",
+        "code_postal": "34173"
+    },
+    {
+        "ville": "Tamegroute",
+        "code_postal": "47602"
+    },
+    {
+        "ville": "Tamensourt",
+        "code_postal": "40300"
+    },
+    {
+        "ville": "Tameslouhte",
+        "code_postal": "42312"
+    },
+    {
+        "ville": "Tamesna",
+        "code_postal": "12200"
+    },
+    {
+        "ville": "Tamesnite",
+        "code_postal": "34125"
+    },
+    {
+        "ville": "Tamezmoute",
+        "code_postal": "47073"
+    },
+    {
+        "ville": "Tamhrach Rheriss",
+        "code_postal": "52273"
+    },
+    {
+        "ville": "Tamorote",
+        "code_postal": "91072"
+    },
+    {
+        "ville": "Tamraght",
+        "code_postal": "80023"
+    },
+    {
+        "ville": "Tamri",
+        "code_postal": "80502"
+    },
+    {
+        "ville": "Tan Tan",
+        "code_postal": "82000"
+    },
+    {
+        "ville": "Tan-Tan",
+        "code_postal": "82000"
+    },
+    {
+        "ville": "Tanacob",
+        "code_postal": "91045"
+    },
+    {
+        "ville": "Tanalt",
+        "code_postal": "87552"
+    },
+    {
+        "ville": "Tanannt",
+        "code_postal": "22552"
+    },
+    {
+        "ville": "Tancherfi",
+        "code_postal": "65474"
+    },
+    {
+        "ville": "Tanfit Ait Oumzil",
+        "code_postal": "85476"
+    },
+    {
+        "ville": "Tangarfa",
+        "code_postal": "85622"
+    },
+    {
+        "ville": "Tanger",
+        "code_postal": "90000"
+    },
+    {
+        "ville": "Tankert",
+        "code_postal": "81123"
+    },
+    {
+        "ville": "Tanorha",
+        "code_postal": "23674"
+    },
+    {
+        "ville": "Tanssifte",
+        "code_postal": "47074"
+    },
+    {
+        "ville": "Tantamt",
+        "code_postal": "83274"
+    },
+    {
+        "ville": "Taouima",
+        "code_postal": "62026"
+    },
+    {
+        "ville": "Taouloukout",
+        "code_postal": "41075"
+    },
+    {
+        "ville": "Taounate",
+        "code_postal": "34000"
+    },
+    {
+        "ville": "Taounza",
+        "code_postal": "22122"
+    },
+    {
+        "ville": "Taourirt",
+        "code_postal": "65800"
+    },
+    {
+        "ville": "Taouyalte",
+        "code_postal": "83174"
+    },
+    {
+        "ville": "Taouz",
+        "code_postal": "52224"
+    },
+    {
+        "ville": "Tarfaya",
+        "code_postal": "70050"
+    },
+    {
+        "ville": "Targa Wassay",
+        "code_postal": "81032"
+    },
+    {
+        "ville": "Targuist",
+        "code_postal": "32350"
+    },
+    {
+        "ville": "Tarhbalte",
+        "code_postal": "47722"
+    },
+    {
+        "ville": "Tarhjijt",
+        "code_postal": "81152"
+    },
+    {
+        "ville": "Tarhremt",
+        "code_postal": "94122"
+    },
+    {
+        "ville": "Tarhzoute Nait Atta",
+        "code_postal": "45652"
+    },
+    {
+        "ville": "Tarmilet",
+        "code_postal": "15123"
+    },
+    {
+        "ville": "Taroudannt",
+        "code_postal": "83000"
+    },
+    {
+        "ville": "Taroudant",
+        "code_postal": "83000"
+    },
+    {
+        "ville": "Tassift",
+        "code_postal": "91036"
+    },
+    {
+        "ville": "Tassoultante",
+        "code_postal": "40065"
+    },
+    {
+        "ville": "Tassousfi",
+        "code_postal": "83526"
+    },
+    {
+        "ville": "Tata",
+        "code_postal": "84000"
+    },
+    {
+        "ville": "Tatoufet",
+        "code_postal": "92202"
+    },
+    {
+        "ville": "Taza",
+        "code_postal": "35000"
+    },
+    {
+        "ville": "Tazarine Msara",
+        "code_postal": "35062"
+    },
+    {
+        "ville": "Taznakht",
+        "code_postal": "45750"
+    },
+    {
+        "ville": "Tazougarte",
+        "code_postal": "52173"
+    },
+    {
+        "ville": "Tazouta",
+        "code_postal": "31004"
+    },
+    {
+        "ville": "Tazzarine",
+        "code_postal": "47703"
+    },
+    {
+        "ville": "Tazzarte",
+        "code_postal": "42084"
+    },
+    {
+        "ville": "Tazzemmourte",
+        "code_postal": "83035"
+    },
+    {
+        "ville": "Temsia",
+        "code_postal": "86602"
+    },
+    {
+        "ville": "Tendrara",
+        "code_postal": "61302"
+    },
+    {
+        "ville": "Ternata",
+        "code_postal": "47923"
+    },
+    {
+        "ville": "Teroual",
+        "code_postal": "16252"
+    },
+    {
+        "ville": "Thar Es-Souk",
+        "code_postal": "34150"
+    },
+    {
+        "ville": "Tiddas",
+        "code_postal": "15352"
+    },
+    {
+        "ville": "Tidili Fetouaka",
+        "code_postal": "22325"
+    },
+    {
+        "ville": "Tidili Mesfioua",
+        "code_postal": "42085"
+    },
+    {
+        "ville": "Tidsi Nissendalene",
+        "code_postal": "83425"
+    },
+    {
+        "ville": "Tidzi",
+        "code_postal": "44075"
+    },
+    {
+        "ville": "Tifermite",
+        "code_postal": "85125"
+    },
+    {
+        "ville": "Tiflet",
+        "code_postal": "15400"
+    },
+    {
+        "ville": "Tifni",
+        "code_postal": "22326"
+    },
+    {
+        "ville": "Tighessaline",
+        "code_postal": "54003"
+    },
+    {
+        "ville": "Tighezratine",
+        "code_postal": "35073"
+    },
+    {
+        "ville": "Tighmert Azouafit",
+        "code_postal": "81044"
+    },
+    {
+        "ville": "Tighza",
+        "code_postal": "35123"
+    },
+    {
+        "ville": "Tilmi",
+        "code_postal": "45473"
+    },
+    {
+        "ville": "Tilougguite",
+        "code_postal": "22602"
+    },
+    {
+        "ville": "Tilouine",
+        "code_postal": "52252"
+    },
+    {
+        "ville": "Tilouine Assaka",
+        "code_postal": "81043"
+    },
+    {
+        "ville": "Timahdite",
+        "code_postal": "53104"
+    },
+    {
+        "ville": "Timezgana",
+        "code_postal": "34042"
+    },
+    {
+        "ville": "Timezguadiouine",
+        "code_postal": "41076"
+    },
+    {
+        "ville": "Timezguida Ouasrir",
+        "code_postal": "87113"
+    },
+    {
+        "ville": "Timezguite",
+        "code_postal": "52522"
+    },
+    {
+        "ville": "Timoulay",
+        "code_postal": "81053"
+    },
+    {
+        "ville": "Timzguida Ouftas",
+        "code_postal": "44225"
+    },
+    {
+        "ville": "Tindine",
+        "code_postal": "83284"
+    },
+    {
+        "ville": "Tindit",
+        "code_postal": "33303"
+    },
+    {
+        "ville": "Tinejdad",
+        "code_postal": "52600"
+    },
+    {
+        "ville": "Tinghir",
+        "code_postal": "45800"
+    },
+    {
+        "ville": "Tinzouline",
+        "code_postal": "47924"
+    },
+    {
+        "ville": "Tiouine",
+        "code_postal": "45024"
+    },
+    {
+        "ville": "Tiouli",
+        "code_postal": "64872"
+    },
+    {
+        "ville": "Tiourhza",
+        "code_postal": "85502"
+    },
+    {
+        "ville": "Tioute",
+        "code_postal": "83224"
+    },
+    {
+        "ville": "Tiqqi",
+        "code_postal": "80324"
+    },
+    {
+        "ville": "Tirhmi",
+        "code_postal": "85102"
+    },
+    {
+        "ville": "Tislit",
+        "code_postal": "22352"
+    },
+    {
+        "ville": "Tisrasse",
+        "code_postal": "83074"
+    },
+    {
+        "ville": "Tissa",
+        "code_postal": "34200"
+    },
+    {
+        "ville": "Tissaf",
+        "code_postal": "33323"
+    },
+    {
+        "ville": "Tissint",
+        "code_postal": "84053"
+    },
+    {
+        "ville": "Tit Mellil",
+        "code_postal": "29640"
+    },
+    {
+        "ville": "Tizaghte",
+        "code_postal": "84075"
+    },
+    {
+        "ville": "Tizguine",
+        "code_postal": "42102"
+    },
+    {
+        "ville": "Tizgzaouine",
+        "code_postal": "83533"
+    },
+    {
+        "ville": "Tizi Nisly",
+        "code_postal": "23073"
+    },
+    {
+        "ville": "Tizi Ouzli",
+        "code_postal": "35352"
+    },
+    {
+        "ville": "Tizi Tchen",
+        "code_postal": "32326"
+    },
+    {
+        "ville": "Tizirhine",
+        "code_postal": "62122"
+    },
+    {
+        "ville": "Tiznit",
+        "code_postal": "85000"
+    },
+    {
+        "ville": "Tizoughane",
+        "code_postal": "85483"
+    },
+    {
+        "ville": "Tizouinine",
+        "code_postal": "84074"
+    },
+    {
+        "ville": "Tiztoutine",
+        "code_postal": "62802"
+    },
+    {
+        "ville": "Tlata Ait Taleb",
+        "code_postal": "83036"
+    },
+    {
+        "ville": "Tlata Assifane",
+        "code_postal": "91046"
+    },
+    {
+        "ville": "Tlata Hanchane",
+        "code_postal": "44250"
+    },
+    {
+        "ville": "Tlata Ida Gougmar",
+        "code_postal": "85126"
+    },
+    {
+        "ville": "Tlata Ou Guenz",
+        "code_postal": "87572"
+    },
+    {
+        "ville": "Tlata Rissana",
+        "code_postal": "92252"
+    },
+    {
+        "ville": "Tlata Tagmoute",
+        "code_postal": "84025"
+    },
+    {
+        "ville": "Tlata Traiba",
+        "code_postal": "35056"
+    },
+    {
+        "ville": "Tleta Ain Blal",
+        "code_postal": "26674"
+    },
+    {
+        "ville": "Tleta Beni Zrantil",
+        "code_postal": "25272"
+    },
+    {
+        "ville": "Tleta Boulaouane",
+        "code_postal": "24074"
+    },
+    {
+        "ville": "Tleta Chougrane",
+        "code_postal": "25502"
+    },
+    {
+        "ville": "Tleta El Akhsass",
+        "code_postal": "85550"
+    },
+    {
+        "ville": "Tleta Gnadiz",
+        "code_postal": "25424"
+    },
+    {
+        "ville": "Tleta Irhoud",
+        "code_postal": "46052"
+    },
+    {
+        "ville": "Tleta Jbel",
+        "code_postal": "62852"
+    },
+    {
+        "ville": "Tleta Loulad",
+        "code_postal": "26700"
+    },
+    {
+        "ville": "Tleta Mzem",
+        "code_postal": "43276"
+    },
+    {
+        "ville": "Tleta Nihit",
+        "code_postal": "83275"
+    },
+    {
+        "ville": "Tleta Nyacoub",
+        "code_postal": "42353"
+    },
+    {
+        "ville": "Tleta Oulad Fares",
+        "code_postal": "26623"
+    },
+    {
+        "ville": "Tleta Oulad Sghir",
+        "code_postal": "26232"
+    },
+    {
+        "ville": "Tleta Sidi Aissa",
+        "code_postal": "46124"
+    },
+    {
+        "ville": "Tleta Sidi Bouguedra",
+        "code_postal": "46252"
+    },
+    {
+        "ville": "Tleta Tassrirt",
+        "code_postal": "85486"
+    },
+    {
+        "ville": "Tleta Tazlaft",
+        "code_postal": "62523"
+    },
+    {
+        "ville": "Tleta Tidli",
+        "code_postal": "85482"
+    },
+    {
+        "ville": "Tlite",
+        "code_postal": "84174"
+    },
+    {
+        "ville": "Tnine Adai",
+        "code_postal": "81172"
+    },
+    {
+        "ville": "Tnine Addar",
+        "code_postal": "83276"
+    },
+    {
+        "ville": "Tnine Aglou",
+        "code_postal": "85004"
+    },
+    {
+        "ville": "Tnine Amellou",
+        "code_postal": "85602"
+    },
+    {
+        "ville": "Tnine Bouchane",
+        "code_postal": "43154"
+    },
+    {
+        "ville": "Tnine Chtouka",
+        "code_postal": "24175"
+    },
+    {
+        "ville": "Tnine Gharbia",
+        "code_postal": "24452"
+    },
+    {
+        "ville": "Tnine Hilala",
+        "code_postal": "87702"
+    },
+    {
+        "ville": "Tnine Ida Ou Gailal",
+        "code_postal": "83326"
+    },
+    {
+        "ville": "Tnine Ida Ou Zemzem",
+        "code_postal": "44275"
+    },
+    {
+        "ville": "Tnine Imi Ntlit",
+        "code_postal": "44076"
+    },
+    {
+        "ville": "Tnine Mhara",
+        "code_postal": "43323"
+    },
+    {
+        "ville": "Tnine Mhaya",
+        "code_postal": "50152"
+    },
+    {
+        "ville": "Tnine Oudaya",
+        "code_postal": "40253"
+    },
+    {
+        "ville": "Tnine Oulad Ali",
+        "code_postal": "13025"
+    },
+    {
+        "ville": "Tnine Ourika",
+        "code_postal": "42452"
+    },
+    {
+        "ville": "Tnine Rhiate",
+        "code_postal": "46174"
+    },
+    {
+        "ville": "Tnine Sidi El Yamani",
+        "code_postal": "90054"
+    },
+    {
+        "ville": "Tnine Taifa",
+        "code_postal": "35045"
+    },
+    {
+        "ville": "Tnine Tarsouat",
+        "code_postal": "85485"
+    },
+    {
+        "ville": "Tnine Tigouga",
+        "code_postal": "83332"
+    },
+    {
+        "ville": "Tnine Timoulilt",
+        "code_postal": "22702"
+    },
+    {
+        "ville": "Tnine Toualet",
+        "code_postal": "26675"
+    },
+    {
+        "ville": "Tnine Touflaazt",
+        "code_postal": "83282"
+    },
+    {
+        "ville": "Tnine Zghariyine",
+        "code_postal": "34132"
+    },
+    {
+        "ville": "Torres De Alcala",
+        "code_postal": "32014"
+    },
+    {
+        "ville": "Touahar",
+        "code_postal": "35036"
+    },
+    {
+        "ville": "Touama",
+        "code_postal": "42086"
+    },
+    {
+        "ville": "Toubkal",
+        "code_postal": "83175"
+    },
+    {
+        "ville": "Toubouzar",
+        "code_postal": "85033"
+    },
+    {
+        "ville": "Toudgha El Oulia",
+        "code_postal": "45824"
+    },
+    {
+        "ville": "Toudgha El Soufla",
+        "code_postal": "45825"
+    },
+    {
+        "ville": "Toughmart",
+        "code_postal": "83333"
+    },
+    {
+        "ville": "Touissit",
+        "code_postal": "64850"
+    },
+    {
+        "ville": "Toulal",
+        "code_postal": "50110"
+    },
+    {
+        "ville": "Toundoute",
+        "code_postal": "45852"
+    },
+    {
+        "ville": "Tounfite",
+        "code_postal": "54502"
+    },
+    {
+        "ville": "Touroug",
+        "code_postal": "52623"
+    },
+    {
+        "ville": "Troukout",
+        "code_postal": "32253"
+    },
+    {
+        "ville": "Tétouan",
+        "code_postal": "93000"
+    },
+    {
+        "ville": "Volubilis",
+        "code_postal": "50382"
+    },
+    {
+        "ville": "Youssoufia",
+        "code_postal": "46300"
+    },
+    {
+        "ville": "Zaaroura",
+        "code_postal": "92024"
+    },
+    {
+        "ville": "Zag",
+        "code_postal": "81006"
+    },
+    {
+        "ville": "Zagora",
+        "code_postal": "47900"
+    },
+    {
+        "ville": "Zagota",
+        "code_postal": "16023"
+    },
+    {
+        "ville": "Zaida",
+        "code_postal": "54375"
+    },
+    {
+        "ville": "Zaio",
+        "code_postal": "62900"
+    },
+    {
+        "ville": "Zaouia Ahensal",
+        "code_postal": "22002"
+    },
+    {
+        "ville": "Zaouia Ait Sidi Abdesslam",
+        "code_postal": "53024"
+    },
+    {
+        "ville": "Zaouia Ben Hmida",
+        "code_postal": "44004"
+    },
+    {
+        "ville": "Zaouia Bougrine",
+        "code_postal": "31223"
+    },
+    {
+        "ville": "Zaouia Kadiria",
+        "code_postal": "47075"
+    },
+    {
+        "ville": "Zaouia Nouaceur",
+        "code_postal": "41024"
+    },
+    {
+        "ville": "Zaouia Sidi Abdejlil",
+        "code_postal": "35225"
+    },
+    {
+        "ville": "Zaouia Sidi Ahmed Ou Moussa",
+        "code_postal": "85132"
+    },
+    {
+        "ville": "Zaouia Sidi Hamza",
+        "code_postal": "52425"
+    },
+    {
+        "ville": "Zaouia Sidi Kacem",
+        "code_postal": "93032"
+    },
+    {
+        "ville": "Zaouiat Annahlia",
+        "code_postal": "41226"
+    },
+    {
+        "ville": "Zaouiat Ben Hamdoune",
+        "code_postal": "24232"
+    },
+    {
+        "ville": "Zaouiat Cheikh",
+        "code_postal": "23700"
+    },
+    {
+        "ville": "Zaouiat El Kermate",
+        "code_postal": "31273"
+    },
+    {
+        "ville": "Zaouiat Sidi Tahar",
+        "code_postal": "83042"
+    },
+    {
+        "ville": "Zaouit El Bir",
+        "code_postal": "45372"
+    },
+    {
+        "ville": "Zaouit Sidi Salah",
+        "code_postal": "47574"
+    },
+    {
+        "ville": "Zayest",
+        "code_postal": "63322"
+    },
+    {
+        "ville": "Zeghanghane",
+        "code_postal": "62650"
+    },
+    {
+        "ville": "Zegzel",
+        "code_postal": "63323"
+    },
+    {
+        "ville": "Zellidja Boubker",
+        "code_postal": "64902"
+    },
+    {
+        "ville": "Zemamra Chaouia",
+        "code_postal": "26676"
+    },
+    {
+        "ville": "Zemrane",
+        "code_postal": "43372"
+    },
+    {
+        "ville": "Zemrane Cherqia",
+        "code_postal": "43474"
+    },
+    {
+        "ville": "Zerarda",
+        "code_postal": "35402"
+    },
+    {
+        "ville": "Zhiliga",
+        "code_postal": "15154"
+    },
+    {
+        "ville": "Ziaida",
+        "code_postal": "13026"
+    },
+    {
+        "ville": "Zirara",
+        "code_postal": "16024"
+    },
+    {
+        "ville": "Zoco Jemis De Anyera",
+        "code_postal": "94026"
+    },
+    {
+        "ville": "Zouada",
+        "code_postal": "92072"
+    },
+    {
+        "ville": "Zouair",
+        "code_postal": "23523"
+    },
+    {
+        "ville": "Zoualet",
+        "code_postal": "50044"
+    },
+    {
+        "ville": "Zoudj Bghal",
+        "code_postal": "60024"
+    },
+    {
+        "ville": "Zoumi",
+        "code_postal": "91202"
+    },
+    {
+        "ville": "Zrigate",
+        "code_postal": "52052"
+    },
+    {
+        "ville": "Zrizer",
+        "code_postal": "34043"
+    }
+]
