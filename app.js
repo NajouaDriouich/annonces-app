@@ -21,8 +21,7 @@ const filtreVille = document.getElementById("filtreVille");
 async function afficherAnnonces() {
     const villeChoisie = filtreVille.value;
 
-    liste.innerHTML = "";
-
+    liste.innerHTML = "<p>Chargement des annonces...</p>";
     const querySnapshot = await getDocs(collection(db, "annonces"));
 
 

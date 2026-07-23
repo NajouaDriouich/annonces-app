@@ -254,6 +254,7 @@ footer{
     display:flex;
     flex-direction:column;
     gap:8px;
+    min-height:800px;
 }
 
 .card{
