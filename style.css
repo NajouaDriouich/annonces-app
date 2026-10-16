@@ -368,3 +368,10 @@ footer{
     border-color: #2563eb;
     box-shadow: 0 0 5px rgba(37,99,235,0.3);
 }
+/* Cacher les boutons uniquement dans la page d'accueil */
+body:has(#liste) #btnLogin,
+body:has(#liste) #btnSignup,
+body:has(#liste) #btnLogout,
+body:has(#liste) #btnAjouter {
+    display: none;
+}

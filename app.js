@@ -1,3 +1,5 @@
+
+
 import { auth, db } from "./firebase.js";
 
 import {
@@ -24,49 +26,47 @@ async function afficherAnnonces() {
     liste.innerHTML = " ";
     const querySnapshot = await getDocs(collection(db, "annonces"));
 
+    querySnapshot.forEach((document) => {
 
-querySnapshot.forEach((document) => {
+        const annonce = document.data();
 
-    const annonce = document.data();
+        if (
+            villeChoisie === "Toutes" ||
+            annonce.ville === villeChoisie
+        ) {
 
-    if (
-        villeChoisie === "Toutes" ||
-        annonce.ville === villeChoisie
-    ) {
+            liste.innerHTML += `
+                <div class="card">
 
-        liste.innerHTML += `
-            <div class="card">
+                    <img src="${annonce.image.replace('/upload/', '/upload/f_auto,q_auto,w_350/')}"
+                        class="photoAnnonce"
+                        alt="${annonce.nom}"
+                        loading="lazy"
+                        decoding="async"
+                        fetchpriority="low"
+                        width="300"
+                        height="220">
 
-                <img src="${annonce.image.replace('/upload/', '/upload/f_auto,q_auto,w_350/')}"
-                    class="photoAnnonce"
-                    alt="${annonce.nom}"
-                    loading="lazy"
-                    decoding="async"
-                    fetchpriority="low"
-                    width="300"
-                    height="220">
-                <div class="info">
+                    <div class="info">
 
-                    <h3>${annonce.nom}</h3>
-                    <p><strong>Prix :</strong> ${annonce.prix} DH</p>
+                        <h3>${annonce.nom}</h3>
+                        <p><strong>Prix :</strong> ${annonce.prix} DH</p>
 
-                    <p><strong>Date :</strong> ${annonce.date}</p>
+                        <p><strong>Date :</strong> ${annonce.date}</p>
 
-                    <p>
-                        <strong>Ville :</strong>
-                        📍 ${annonce.ville} • ${annonce.codePostal}
-                    </p>
+                        <p>
+                            <strong>Ville :</strong>
+                            📍 ${annonce.ville} • ${annonce.codePostal}
+                        </p>
 
-    
+                    </div>
 
                 </div>
+            `;
 
-            </div>
-         `;
+        }
 
-    }
-
-});
+    });
 }
 
 onAuthStateChanged(auth, (user) => {
@@ -109,6 +109,7 @@ window.voirAnnonces = function () {
     });
 
 };
+
 async function chargerVilles() {
 
     const querySnapshot = await getDocs(collection(db, "annonces"));
@@ -129,7 +130,7 @@ async function chargerVilles() {
 
     villes.sort();
 
-    villes.forEach(ville => {
+    villes.forEach((ville) => {
 
         filtreVille.innerHTML += `
             <option value="${ville}">
@@ -140,6 +141,7 @@ async function chargerVilles() {
     });
 
 }
+
 filtreVille.addEventListener("change", () => {
 
     afficherAnnonces();
